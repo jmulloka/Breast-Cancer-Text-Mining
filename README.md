@@ -19,3 +19,13 @@ Shallow parsing is often used to focus on specific parts of the text to analyze 
 With the idea of text mining and machine learning, it becomes most relevant to Chapter 6 and 7 of the textbook.
 Both of those chapters focused on knowledge discovery life cycle, which involves data preparation, data reduction, and data mining methods.
 As well as, approaches to natural language processing and text mining, which involves document and sentence segmentation, tokenization, and parsing.5
+
+## Using Julia Notebook (Julia Markdown)
+### 1. Run Notebook
+```
+julia start_notebook.jl
+```
+### 2. Open Notebook
+```
+http://localhost:8889/notebooks/Breast-Cancer-Text-Mining/TextMiningJuliaMarkdown.ipynb
+```
