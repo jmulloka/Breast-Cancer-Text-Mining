@@ -5,7 +5,7 @@ using DataFrames
 function fetchBreastCancerArticles(cancerType="breast cancer", researchType="diagnosis",
                                     minDate=1990,maxDate=2030, retmax=1000)
 
-    search_terms = "\"$cancerType\"[ad] and \"$researchType\"[mh]"
+    search_terms = "\"$cancerType\"[TIAB] and \"$researchType\"[TIAB]"
 
     # Retrieve number of results - from ESearch results
     # define base search query for eutils
@@ -92,17 +92,18 @@ function fetchBreastCancerArticles(cancerType="breast cancer", researchType="dia
     end
 
     # return dictionary of pmid and title
-    return(DataFrame(pmid=pmid_array,
+    df = DataFrame(pmid=pmid_array,
                     title=title_array,
                     date_created=date_created_array,
                     main_abstract=abstract_array
                     )
-            )
+
+    return(df, fetch_result)
 
 end
 
 # usage
-#df = fetchBreastCancerArticles("breast cancer", "diagnosis",2000,2018)
+#df, output_text = fetchBreastCancerArticles("breast cancer", "prevention",2018,2018)
 
 # ref
 #https://www.nlm.nih.gov/bsd/mms/medlineelements.html#ab

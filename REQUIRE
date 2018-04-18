@@ -2,3 +2,8 @@ IJulia
 Gadfly
 DataFrames
 RCall
+TextAnalysis
+Query
+Vega
+Taro
+ProgressMeter
