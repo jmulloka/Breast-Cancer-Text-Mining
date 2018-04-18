@@ -2,20 +2,27 @@ using Taro
 using DataFrames
 using Requests
 using ProgressMeter
-Taro.init() # init once
 
-function fetchFullArticleFromPmc(dataFrame ::DataFrames) ::DataFrames
+# initialize packages and JVM
+try
+  Taro.init() # init once
+catch
+  # something is not right
+end
+
+function fetchFullArticleFromPmc(dataFrame)
   pmcids = dataFrame[:pmcid]
   tempDir = mktempdir() # create temp directory
   nrows =nrow(dataFrame)
   tracker = Progress(nrows, 1)
   # define the new columns
-  dataFrame[:pmcUrl] = fill!(Array(Any, size(df,1)), NA)
-  dataFrame[:fullText] = fill!(Array(Any, size(df,1)), NA)
+  dataFrame[:pmcUrl] = ""
+  dataFrame[:fullText] = ""
 
   for row in eachrow(dataFrame)
       pmcid = row[:pmcid]
       pmcUrl = "https://www.ncbi.nlm.nih.gov/pmc/articles/$pmcid/pdf";
+      println("Now downloading: $pmcid")
       pdfTempPath = save(get(pmcUrl), joinpath(tempDir,"$pmcid.pdf"))
       pdfMeta, pdfText = Taro.extract(pdfTempPath)
 

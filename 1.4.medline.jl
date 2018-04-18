@@ -127,11 +127,11 @@ function fetchBreastCancerArticles(cancerType="breast cancer", researchType="dia
 end
 
 # usage
-df = fetchBreastCancerArticles("breast cancer", "diagnosis",2015,2018,1000)
+#df = fetchBreastCancerArticles("breast cancer", "diagnosis",2015,2018,10)
 
-output_file = open("output/diagnosis.csv", "w")
-close(output_file)
-writetable("output/diagnosis.csv",df)
+#output_file = open("output/diagnosis.csv", "w")
+#close(output_file)
+#writetable("output/diagnosis.csv",df)
 
 
 # ref
