@@ -10,6 +10,7 @@ catch
   # something is not right
 end
 
+# function to fetch the entire full articles from https://www.ncbi.nlm.nih.gov/pmc
 function fetchFullArticleFromPmc(dataFrame)
   pmcids = dataFrame[:pmcid]
   tempDir = mktempdir() # create temp directory
@@ -22,7 +23,7 @@ function fetchFullArticleFromPmc(dataFrame)
   for row in eachrow(dataFrame)
       pmcid = row[:pmcid]
       pmcUrl = "https://www.ncbi.nlm.nih.gov/pmc/articles/$pmcid/pdf";
-      println("Now downloading: $pmcid")
+      println("downloading: $pmcid")
       pdfTempPath = save(get(pmcUrl), joinpath(tempDir,"$pmcid.pdf"))
       pdfMeta, pdfText = Taro.extract(pdfTempPath)
 
