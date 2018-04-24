@@ -2,6 +2,8 @@ using Taro
 using DataFrames
 using Requests
 using ProgressMeter
+using TextAnalysis
+using Languages
 
 # initialize packages and JVM
 try
@@ -21,6 +23,7 @@ function fetchFullArticleFromPmc(dataFrame)
   dataFrame[:fullText] = ""
 
   for row in eachrow(dataFrame)
+    try
       pmcid = row[:pmcid]
       pmcUrl = "https://www.ncbi.nlm.nih.gov/pmc/articles/$pmcid/pdf";
       println("downloading: $pmcid")
@@ -29,8 +32,16 @@ function fetchFullArticleFromPmc(dataFrame)
 
       # append row
       row[:pmcUrl] = pmcUrl
-      row[:fullText] = pdfText
+      sd = StringDocument(pdfText) # convert to SD
+      remove_corrupt_utf8!(sd) # remove currupt utf8
+       remove_html_tags!(sd)
+      remove_punctuation!(sd) # remove punctuation
 
+      row[:fullText] =  text(sd)
+    catch err
+      # catch errors
+      warn(err)
+    end
       next!(tracker)
   end
   # return dataFrame
