@@ -5,7 +5,7 @@ include("fetch_full_article.jl")
 
 
 # diagnosis for the year 2000 to  2018 (limit is 1000 for now)
-df = @time  fetchBreastCancerArticles("breast cancer", "diagnosis",2015,2018,5)
+df = @time  fetchBreastCancerArticles("breast cancer", "diagnosis",2015,2018,100)
 println(head(df))
 
 # Then fetch full artcile from PMC and store it as dataframe

@@ -311,3 +311,386 @@ JT  - PLoS ONE
 AID - 10.1371/journal.pone.0190958 [doi]
 AID - PONE-D-17-17486 [pii]
 SO  - PLoS One. 2018 Feb 13;13(2):. doi:10.1371/journal.pone.0190958.
+
+PMC - PMC5805287
+PMID- 29420578
+IS  - 1932-6203 (Electronic)
+VI  - 13
+IP  - 2
+DP  - 2018
+TI  - Evolutionary Wavelet Neural Network ensembles for breast cancer and Parkinson’s
+      disease prediction.
+LID - e0192192
+AB  - Wavelet Neural Networks are a combination of neural networks and wavelets and
+      have been mostly used in the area of time-series prediction and control.
+      Recently, Evolutionary Wavelet Neural Networks have been employed to develop
+      cancer prediction models. The present study proposes to use ensembles of
+      Evolutionary Wavelet Neural Networks. The search for a high quality ensemble is
+      directed by a fitness function that incorporates the accuracy of the classifiers 
+      both independently and as part of the ensemble itself. The ensemble approach is
+      tested on three publicly available biomedical benchmark datasets, one on Breast
+      Cancer and two on Parkinson’s disease, using a 10-fold cross-validation strategy.
+      Our experimental results show that, for the first dataset, the performance was
+      similar to previous studies reported in literature. On the second dataset, the
+      Evolutionary Wavelet Neural Network ensembles performed better than all previous 
+      methods. The third dataset is relatively new and this study is the first to
+      report benchmark results.
+FAU - Khan, Maryam Mahsal
+AU  - Khan MM
+AUID- ORCID: 0000-0001-7858-1181
+AD  - Interdisciplinary Machine Learning Research Group (IMLRG), School of Electrical
+      Engineering and Computing, The University of Newcastle, Callaghan, NSW 2308,
+      Australia
+FAU - Mendes, Alexandre
+AU  - Mendes A
+AD  - Interdisciplinary Machine Learning Research Group (IMLRG), School of Electrical
+      Engineering and Computing, The University of Newcastle, Callaghan, NSW 2308,
+      Australia
+FAU - Chalup, Stephan K.
+AU  - Chalup SK
+AD  - Interdisciplinary Machine Learning Research Group (IMLRG), School of Electrical
+      Engineering and Computing, The University of Newcastle, Callaghan, NSW 2308,
+      Australia
+LA  - eng
+PT  - Journal Article
+DEP - 20180208
+PHST- 2017/07/30 [received]
+PHST- 2018/01/19 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - PONE-D-17-28362 [pii]
+AID - 10.1371/journal.pone.0192192 [doi]
+SO  - PLoS One. 2018 Feb 8;13(2):. doi:10.1371/journal.pone.0192192.
+
+PMC - PMC5784895
+PMID- 29370209
+IS  - 1932-6203 (Electronic)
+VI  - 13
+IP  - 1
+DP  - 2018
+TI  - Evaluation of drug mechanism and efficacy of a novel anti-angiogenic agent,
+      TTAC-0001, using multi-modality bioimaging in a mouse breast cancer orthotopic
+      model.
+LID - e0187063
+AB  - Purpose: Targeting of vascular endothelial growth factor receptors (VEGFRs) has
+      potential anti-angiogenic effects because VEGFR-2 is the major signaling
+      regulator of VEGF/VEGFR pathways. We aimed to elucidate the drug mechanism and
+      anti-tumor efficacy of TTAC-0001, a novel, fully human anti-VEGFR-2/KDR
+      monoclonal antibody, in mouse orthotopic breast cancer model using multi-modal
+      bioimaging. Materials and methods: We used orthotopic xenograft tumor model in
+      which human breast cancer cells (MDA-MB-231) were injected into the right mammary
+      fat pad of Balb/c nude mice. We investigated its biodistribution using serial
+      fluorescence imaging after injecting fluorescent-labelled-drug and mode of action
+      using Matrigel plug angiogenesis assays. The anti-tumor efficacy of drug was
+      assessed using ultrasonography and bioluminescence imaging. Histopathologic
+      analyses, including hematoxylin and eosin staining and immunohistochemistry with 
+      anti-CD31 and anti-Ki-67 antibodies, were performed. Each experiment had four
+      groups: control, bevacizumab 10 mg/kg (BVZ-10 group), TTAC-0001 2 mg/kg (TTAC-2
+      group), and TTAC-0001 10 mg/kg (TTAC-10 group). Results: The TTAC-10 group showed
+      good tumor targeting that lasted for at least 6 days and had a good
+      anti-angiogenic effect with decreased hemoglobin content and fewer CD31-positive 
+      cells in the Matrigel plug. Compared with BVZ-10 and TTAC-2 groups, the TTAC-10
+      group showed the strongest anti-tumor efficacy, inhibiting tumor growth as
+      detected by ultrasonography and bioluminescence imaging. The TTAC-10 group also
+      showed the lowest viable tumor and micro-vessel areas and the lowest Ki-67 index 
+      in histopathologic analyses. Conclusion: We firstly demonstrated that TTAC-0001
+      effectively inhibited tumor growth and neovascularization in mouse orthotopic
+      breast cancer model. It may provide a future treatment option for breast cancer.
+FAU - Kim, Jinil
+AU  - Kim J
+AD  - Department of Radiology and the Research Institute of Radiology, University of
+      Ulsan College of Medicine, Asan Medical Center, Seoul, Korea
+FAU - Choi, Sang Hyun
+AU  - Choi SH
+AD  - Department of Radiology and the Research Institute of Radiology, University of
+      Ulsan College of Medicine, Asan Medical Center, Seoul, Korea
+FAU - Ham, Su Jung
+AU  - Ham SJ
+AD  - Bioimaging Center, Asan Institute for Life Sciences, Asan Medical Center, Seoul, 
+      Korea
+FAU - Cho, Young Chul
+AU  - Cho YC
+AD  - Bioimaging Center, Asan Institute for Life Sciences, Asan Medical Center, Seoul, 
+      Korea
+FAU - Lee, Seul-I
+AU  - Lee SI
+AD  - Bioimaging Center, Asan Institute for Life Sciences, Asan Medical Center, Seoul, 
+      Korea
+FAU - Kang, Jeeheon
+AU  - Kang J
+AD  - Bioimaging Center, Asan Institute for Life Sciences, Asan Medical Center, Seoul, 
+      Korea
+FAU - Woo, Dong-Cheol
+AU  - Woo DC
+AD  - Bioimaging Center, Asan Institute for Life Sciences, Asan Medical Center, Seoul, 
+      Korea
+FAU - Lee, Weon Sub
+AU  - Lee WS
+AD  - PharmAbcine; Inc., Daejeon Bioventure Town, Daejeon Korea
+FAU - Yoo, Jin-San
+AU  - Yoo JS
+AD  - PharmAbcine; Inc., Daejeon Bioventure Town, Daejeon Korea
+FAU - Kim, Kyung Won
+AU  - Kim KW
+AUID- ORCID: 0000-0002-1532-5970
+AD  - Department of Radiology and the Research Institute of Radiology, University of
+      Ulsan College of Medicine, Asan Medical Center, Seoul, Korea
+FAU - Choi, Yoonseok
+AU  - Choi Y
+AD  - Medical Research Institute, Gangneung Asan Hospital, University of Ulsan College 
+      of Medicine, Gangwon-do, Korea
+LA  - eng
+PT  - Journal Article
+DEP - 20180125
+GR  - HI14C1090
+PHST- 2017/07/21 [received]
+PHST- 2017/10/12 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0187063 [doi]
+AID - PONE-D-17-27311 [pii]
+SO  - PLoS One. 2018 Jan 25;13(1):. doi:10.1371/journal.pone.0187063.
+
+PMC - PMC5770054
+PMID- 29338058
+IS  - 1932-6203 (Electronic)
+VI  - 13
+IP  - 1
+DP  - 2018
+TI  - Menstrual and reproductive factors and risk of breast cancer: A case-control
+      study in the Fez region, Morocco.
+LID - e0191333
+AB  - Background: Breast cancer is the most common cancer in women worldwide. In the
+      Moroccan context, the role of well-known reproductive factors in breast cancer
+      remains poorly documented. The aim of this study was to explore the relationship 
+      between menstrual and reproductive factors and breast cancer risk in Moroccan
+      women in the Fez region. Methods: A case–control study was conducted at the
+      Hassan II University Hospital of Fez between January 2014 and April 2015. A total
+      of 237 cases of breast cancer and 237 age-matched controls were included.
+      Information on sociodemographic characteristics, menstrual and reproductive
+      history, family history of breast cancer, and lifestyle factors was obtained
+      through a structured questionnaire. Conditional logistic regression models were
+      used to estimate odds ratios and 95% confidence intervals for breast cancer by
+      menstrual and reproductive factors adjusted for potential confounders. Results:
+      Early menarche (OR = 1.60, 95% CI: 1.08–2.38) and nulliparity (OR = 3.77, 95% CI:
+      1.98–7.30) were significantly related to an increased risk of breast cancer,
+      whereas an early age at first full-term pregnancy was associated with a decreased
+      risk of breast cancer (OR = 0.41, 95% CI: 0.25–0.65). Conclusion: The results of 
+      this study confirm the role of established reproductive factors for breast cancer
+      in Moroccan women. It identified some susceptible groups at high risk of breast
+      cancer. Preventive interventions and screening should focus on these groups as a 
+      priority. These results should be confirmed in a larger, multicenter study.
+FAU - Khalis, Mohamed
+AU  - Khalis M
+AUID- ORCID: 0000-0003-4639-049X
+AD  - Department of Epidemiology, Faculty of Medicine and Pharmacy, Fez, Morocco
+FAU - Charbotel, Barbara
+AU  - Charbotel B
+AD  - University Claude Bernard Lyon1, Ifsttar, UMRESTTE, UMR T_9405, Lyon, France
+FAU - Chajès, Véronique
+AU  - Chajès V
+AD  - Section of Nutrition and Metabolism, International Agency for Research on Cancer,
+      Lyon, France
+FAU - Rinaldi, Sabina
+AU  - Rinaldi S
+AD  - Section of Nutrition and Metabolism, International Agency for Research on Cancer,
+      Lyon, France
+FAU - Moskal, Aurélie
+AU  - Moskal A
+AD  - Section of Nutrition and Metabolism, International Agency for Research on Cancer,
+      Lyon, France
+FAU - Biessy, Carine
+AU  - Biessy C
+AD  - Section of Nutrition and Metabolism, International Agency for Research on Cancer,
+      Lyon, France
+FAU - Dossus, Laure
+AU  - Dossus L
+AD  - Section of Nutrition and Metabolism, International Agency for Research on Cancer,
+      Lyon, France
+FAU - Huybrechts, Inge
+AU  - Huybrechts I
+AD  - Section of Nutrition and Metabolism, International Agency for Research on Cancer,
+      Lyon, France
+FAU - Fort, Emmanuel
+AU  - Fort E
+AD  - University Claude Bernard Lyon1, Ifsttar, UMRESTTE, UMR T_9405, Lyon, France
+FAU - Mellas, Nawfel
+AU  - Mellas N
+AD  - Department of Oncology, Hassan II University Hospital of Fez, Fez, Morocco
+FAU - Elfakir, Samira
+AU  - Elfakir S
+AD  - Department of Epidemiology, Faculty of Medicine and Pharmacy, Fez, Morocco
+FAU - Charaka, Hafida
+AU  - Charaka H
+AD  - Department of Epidemiology, Faculty of Medicine and Pharmacy, Fez, Morocco
+FAU - Nejjari, Chakib
+AU  - Nejjari C
+AD  - Department of Epidemiology, Faculty of Medicine and Pharmacy, Fez, Morocco
+FAU - Romieu, Isabelle
+AU  - Romieu I
+AD  - Section of Nutrition and Metabolism, International Agency for Research on Cancer,
+      Lyon, France
+FAU - El Rhazi, Karima
+AU  - El Rhazi K
+AD  - Department of Epidemiology, Faculty of Medicine and Pharmacy, Fez, Morocco
+LA  - eng
+PT  - Journal Article
+DEP - 20180116
+PHST- 2017/02/28 [received]
+PHST- 2018/01/03 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0191333 [doi]
+AID - PONE-D-17-08102 [pii]
+SO  - PLoS One. 2018 Jan 16;13(1):. doi:10.1371/journal.pone.0191333.
+
+PMC - PMC5816103
+PMID- 29327245
+IS  - 0171-5216 (Print)
+IS  - 1432-1335 (Electronic)
+VI  - 144
+IP  - 3
+DP  - 2018
+TI  - High nuclear MSK1 is associated with longer survival in breast cancer patients.
+PG  - 509-17
+AB  - Purpose: Mitogen- and stress-activated kinases (MSKs) are important substrates of
+      the mitogen-activated protein kinase (MAPK)-activated protein kinase family. MSK1
+      and MSK2 are both nuclear serine/threonine protein kinases, with MSK1 being
+      suggested to potentially play a role in breast cancer cell proliferation, cell
+      cycle progression, cell migration, invasion and tumour growth. The aim of the
+      current study was to assess MSK1 protein expression in breast cancer tumour
+      specimens, evaluating its prognostic significance. Methods: A large cohort of
+      1902 early stage invasive breast cancer patients was used to explore the
+      expression of MSK1. Protein expression was examined using standard
+      immunohistochemistry on tissue microarrays. Results: Low MSK1 protein expression 
+      was associated with younger age (P = 0.004), higher tumour grade (P < 0.001),
+      higher Nottingham Prognostic Index scores (P = 0.007), negative ER (P < 0.001)
+      and PR (P < 0.001) status, and with triple-negative (P < 0.001) and basal-like
+      (P < 0.001) phenotypes. Low MSK1 protein expression was significantly associated 
+      with shorter time to distant metastasis (P < 0.001), and recurrence (P = 0.013)
+      and early death due to breast cancer (P = 0.01). This association between high
+      MSK1 expression and improved breast cancer-specific survival was observed in the 
+      whole cohort (P = 0.009) and in the HER2-negative and non-basal like tumours
+      (P = 0.006 and P = 0.024, respectively). Multivariate analysis including other
+      prognostic variables indicated that MSK1 is not an independent marker of outcome.
+      Conclusions: High MSK1 is associated with improved breast cancer-specific
+      survival in early stage invasive breast cancer patients, and has additional
+      prognostic value in HER2-negative and non-basal like disease. Although not an
+      independent marker of outcome, we believe such findings and significant
+      associations with well-established negative prognostic factors (age, grade,
+      Nottingham Prognostic Index, hormone receptor status, time to distant metastasis,
+      recurrence and triple-negative/basal-like status) warrant further examination and
+      validation in independent patient cohorts.
+FAU - Pu, Xuan
+AU  - Pu X
+AD  - University of Nottingham, Division of Cancer and Stem Cells, Department of
+      Clinical Oncology, School of Medicine, Nottingham University Hospitals NHS Trust,
+      City Hospital Campus, Nottingham, UK
+FAU - Storr, Sarah J.
+AU  - Storr SJ
+AD  - University of Nottingham, Division of Cancer and Stem Cells, Department of
+      Clinical Oncology, School of Medicine, Nottingham University Hospitals NHS Trust,
+      City Hospital Campus, Nottingham, UK
+FAU - Ahmad, Narmeen S.
+AU  - Ahmad NS
+AD  - University of Nottingham, Division of Cancer and Stem Cells, Department of
+      Clinical Oncology, School of Medicine, Nottingham University Hospitals NHS Trust,
+      City Hospital Campus, Nottingham, UK
+FAU - Rakha, Emad A.
+AU  - Rakha EA
+AD  - University of Nottingham, Division of Cancer and Stem Cells, Department of
+      Histopathology, School of Medicine, Nottingham University Hospitals NHS Trust,
+      City Hospital Campus, Nottingham, UK
+FAU - Green, Andrew R.
+AU  - Green AR
+AD  - University of Nottingham, Division of Cancer and Stem Cells, Department of
+      Histopathology, School of Medicine, Nottingham University Hospitals NHS Trust,
+      City Hospital Campus, Nottingham, UK
+FAU - Ellis, Ian O.
+AU  - Ellis IO
+AD  - University of Nottingham, Division of Cancer and Stem Cells, Department of
+      Histopathology, School of Medicine, Nottingham University Hospitals NHS Trust,
+      City Hospital Campus, Nottingham, UK
+FAU - Martin, Stewart G.
+AU  - Martin SG
+AUID- ORCID: 0000-0002-2810-2338
+AD  - University of Nottingham, Division of Cancer and Stem Cells, Department of
+      Clinical Oncology, School of Medicine, Nottingham University Hospitals NHS Trust,
+      City Hospital Campus, Nottingham, UK
+LA  - eng
+PT  - Journal Article
+DEP - 20180111
+GR  - 2011MayPr35
+PHST- 2017/12/21 [received]
+PHST- 2018/01/06 [accepted]
+TA  - J Cancer Res Clin Oncol
+JT  - Journal of Cancer Research and Clinical Oncology
+AID - 2579 [pii]
+AID - 10.1007/s00432-018-2579-7 [doi]
+SO  - J Cancer Res Clin Oncol. 2018;144(3):509-17. Epub 2018 Jan 11
+      doi:10.1007/s00432-018-2579-7.
+
+PMC - PMC5764434
+PMID- 29324832
+IS  - 1932-6203 (Electronic)
+VI  - 13
+IP  - 1
+DP  - 2018
+TI  - Differential microRNA expression in breast cancer with different onset age.
+LID - e0191195
+AB  - Purpose: The lower breast cancer incidence in Asian populations compared with
+      Western populations has been speculated to be caused by environmental and genetic
+      variation. Early-onset breast cancer occupies a considerable proportion of breast
+      cancers in Asian populations, but the reason for this is unclear. We aimed to
+      examine miRNA expression profiles in different age-onset groups and pathological 
+      subtypes in Asian breast cancer. Methods: At the first stage, 10 samples (tumor: 
+      n = 6, normal tissue: n = 4) were analyzed with an Agilent microRNA 470 probe
+      microarray. Candidate miRNAs with expression levels that were significantly
+      altered in breast cancer samples or selected from a literature review were
+      further validated by quantitative real-time PCR (qPCR) of 145 breast cancer
+      samples at the second stage of the process. Correlations between
+      clinicopathological parameters of breast cancer patients from different age
+      groups and candidate miRNA expression were elucidated. Results: In the present
+      study, the tumor subtypes were significantly different in each age group, and an 
+      onset age below 40 had poor disease-free and overall survival rates. For all
+      breast cancer patients, miR-335 and miR-145 were down-regulated, and miR-21,
+      miR-200a, miR-200c, and miR-141 were up-regulated. In very young patients (age < 
+      35 y/o), the expression of 3 and 8 specific miRNAs were up- and down-regulated,
+      respectively. In young patients (36–40 y/o), 3 and 3 specific miRNAs were up- and
+      down-regulated, respectively. miR-532-5p was up-regulated in triple-negative
+      breast cancer. Conclusions: Differential miRNA expressions between normal and
+      tumor tissues were observed in different age groups and tumor subtypes.
+      Evolutionarily conserved miRNA clusters, which initiate malignancy
+      transformation, were up-regulated in the breast cancers of very young patients.
+      None of the significantly altered miRNAs were observed in postmenopausal
+      patients.
+FAU - Tsai, Hsiu-Pei
+AU  - Tsai HP
+AD  - Graduate Institute of Clinical Medical Sciences, Chang Gung University, Gueishan,
+      Taoyuan, Taiwan
+FAU - Huang, Shiang-Fu
+AU  - Huang SF
+AD  - Graduate Institute of Clinical Medical Sciences, Chang Gung University, Gueishan,
+      Taoyuan, Taiwan
+FAU - Li, Chien-Fan
+AU  - Li CF
+AD  - Department of Public Health, Chang Gung University, Gueishan, Taoyuan, Taiwan
+FAU - Chien, Huei-Tzu
+AU  - Chien HT
+AUID- ORCID: 0000-0002-4120-7070
+AD  - Department of Public Health, Chang Gung University, Gueishan, Taoyuan, Taiwan
+FAU - Chen, Shin-Cheh
+AU  - Chen SC
+AD  - Department of General Surgery, Chang Gung Memorial Hospital, Gueishan, Taoyuan,
+      Taiwan
+LA  - eng
+PT  - Journal Article
+DEP - 20180111
+GR  - CMRPG180011
+PHST- 2017/10/10 [received]
+PHST- 2017/12/29 [accepted]
+TA  - PLoS One
+JT  - PLoS ONE
+AID - 10.1371/journal.pone.0191195 [doi]
+AID - PONE-D-17-36356 [pii]
+SO  - PLoS One. 2018 Jan 11;13(1):. doi:10.1371/journal.pone.0191195.

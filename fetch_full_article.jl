@@ -12,8 +12,18 @@ catch
   # something is not right
 end
 
+#function to clean article
+function preCleaning(pdfText)
+  sd = StringDocument(pdfText) # convert to SD
+  remove_corrupt_utf8!(sd) # remove currupt utf8
+  remove_html_tags!(sd) # remove html
+  remove_punctuation!(sd) # remove punctuation
+  #prepare!(sd,strip_punctuation | strip_numbers | strip_case | strip_whitespace)
+  return(sd)
+end
+
 # function to fetch the entire full articles from https://www.ncbi.nlm.nih.gov/pmc
-function fetchFullArticleFromPmc(dataFrame)
+function fetchFullArticleFromPmc(dataFrame, filename="diagnosis_full_article")
   pmcids = dataFrame[:pmcid]
   tempDir = mktempdir() # create temp directory
   nrows =nrow(dataFrame)
@@ -32,10 +42,7 @@ function fetchFullArticleFromPmc(dataFrame)
 
       # append row
       row[:pmcUrl] = pmcUrl
-      sd = StringDocument(pdfText) # convert to SD
-      remove_corrupt_utf8!(sd) # remove currupt utf8
-       remove_html_tags!(sd)
-      remove_punctuation!(sd) # remove punctuation
+      sd = preCleaning(pdfText) # clean article
 
       row[:fullText] =  text(sd)
     catch err
@@ -44,9 +51,15 @@ function fetchFullArticleFromPmc(dataFrame)
     end
       next!(tracker)
   end
+  # save it as excel
+  output_file = open("output/$filename.csv", "w")
+  close(output_file)
+  writetable("output/$filename.csv",dataFrame)
   # return dataFrame
   return(dataFrame)
 end
+
+
 
 # How to use
 # df = fetchBreastCancerArticles("breast cancer", "diagnosis",2015,2018,10)
