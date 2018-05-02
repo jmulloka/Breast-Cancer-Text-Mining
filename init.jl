@@ -12,7 +12,7 @@ packages = [
      "ProgressMeter",
      "Languages",
      "Requests",
-     "Plotly",
+     "Plotly"
  ]
 # this function installs all required packages
 function initApp()
