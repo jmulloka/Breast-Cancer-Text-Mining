@@ -1,12 +1,4 @@
-IJulia
-Gadfly
-DataFrames
-RCall
-TextAnalysis
-Query
-Vega
-Taro
-ProgressMeter
-Languages
-Requests
-Plotly
+
+##########
+Please add all packages in this file ---> init.jl
+##########
