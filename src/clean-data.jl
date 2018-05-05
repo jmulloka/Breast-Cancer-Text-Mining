@@ -32,7 +32,7 @@ function cleanText(rawText)
                         "pmc", "nih", "author", "pa", "manuscript", "nanuscript",
                         "nu", "nscript", "nauthor", "nuthor", "nan", "page", "nmed",
                         "available","nint", "nm", #unit
-                        "nam", "pubmed",
+                        "nam", "pubmed", "wwww", "http", "www",
                         "nplos", "based", "using", "uthor", "script", "uthor"])
 
 
