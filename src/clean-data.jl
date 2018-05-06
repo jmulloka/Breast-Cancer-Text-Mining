@@ -32,7 +32,13 @@ function cleanText(rawText)
                         "pmc", "nih", "author", "pa", "manuscript", "nanuscript",
                         "nu", "nscript", "nauthor", "nuthor", "nan", "page", "nmed",
                         "available","nint", "nm", #unit
-                        "nam", "pubmed", "wwww", "http", "www",
+                        "nam", "pubmed", "wwww", "http","nhttp", "www", "biomedcentral",
+                        "com", "npage", "citation", "purposes",
+                        "ip", "address", "national" ,"library",
+                        "support", "center", "web", "site", "ncbi", "web","terms",
+                        "copyright","copyright", "notice", "search", "databasepmc",
+                        "content", "skip", "toolkit", "search",  "datasets", "geo",
+
                         "nplos", "based", "using", "uthor", "script", "uthor"])
 
 

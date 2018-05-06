@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="300mm" height="150mm" viewBox="0 0 300 150"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-9724bfce-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-9724bfce-2">
+    <text x="147.22" y="138.39" text-anchor="middle" dy="0.6em">year</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-9724bfce-3">
+    <text x="23.3" y="131.72" text-anchor="middle" dy="0.6em">2008</text>
+    <text x="72.87" y="131.72" text-anchor="middle" dy="0.6em">2010</text>
+    <text x="122.44" y="131.72" text-anchor="middle" dy="0.6em">2012</text>
+    <text x="172.01" y="131.72" text-anchor="middle" dy="0.6em">2014</text>
+    <text x="221.57" y="131.72" text-anchor="middle" dy="0.6em">2016</text>
+    <text x="271.14" y="131.72" text-anchor="middle" dy="0.6em">2018</text>
+  </g>
+  <g class="guide colorkey" id="img-9724bfce-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-9724bfce-5">
+      <text x="276.95" y="62.42" dy="0.35em" id="img-9724bfce-6" class="color_mri">mri</text>
+      <text x="276.95" y="66.04" dy="0.35em" id="img-9724bfce-7" class="color_tomography">tomography</text>
+      <text x="276.95" y="69.67" dy="0.35em" id="img-9724bfce-8" class="color_mammography">mammography</text>
+      <text x="276.95" y="73.3" dy="0.35em" id="img-9724bfce-9" class="color_ultrasound">ultrasound</text>
+      <text x="276.95" y="76.92" dy="0.35em" id="img-9724bfce-10" class="color_biopsy">biopsy</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-9724bfce-11">
+      <rect x="274.14" y="61.51" width="1.81" height="1.81" id="img-9724bfce-12" fill="#00BFFF" class="color_mri"/>
+      <rect x="274.14" y="65.14" width="1.81" height="1.81" id="img-9724bfce-13" fill="#D4CA3A" class="color_tomography"/>
+      <rect x="274.14" y="68.76" width="1.81" height="1.81" id="img-9724bfce-14" fill="#FF6DAE" class="color_mammography"/>
+      <rect x="274.14" y="72.39" width="1.81" height="1.81" id="img-9724bfce-15" fill="#00B78D" class="color_ultrasound"/>
+      <rect x="274.14" y="76.02" width="1.81" height="1.81" id="img-9724bfce-16" fill="#BEA9FF" class="color_biopsy"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-9724bfce-17">
+      <text x="274.14" y="58.6" id="img-9724bfce-18">term</text>
+    </g>
+  </g>
+<g clip-path="url(#img-9724bfce-19)">
+  <g id="img-9724bfce-20">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-9724bfce-21">
+      <rect x="21.31" y="5" width="251.84" height="125.72" id="img-9724bfce-22"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-9724bfce-23">
+      <path fill="none" d="M21.31,128.71 L 273.14 128.71" id="img-9724bfce-24"/>
+      <path fill="none" d="M21.31,98.29 L 273.14 98.29" id="img-9724bfce-25"/>
+      <path fill="none" d="M21.31,67.86 L 273.14 67.86" id="img-9724bfce-26"/>
+      <path fill="none" d="M21.31,37.43 L 273.14 37.43" id="img-9724bfce-27"/>
+      <path fill="none" d="M21.31,7 L 273.14 7" id="img-9724bfce-28"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-9724bfce-29">
+      <path fill="none" d="M23.3,5 L 23.3 130.72" id="img-9724bfce-30"/>
+      <path fill="none" d="M72.87,5 L 72.87 130.72" id="img-9724bfce-31"/>
+      <path fill="none" d="M122.44,5 L 122.44 130.72" id="img-9724bfce-32"/>
+      <path fill="none" d="M172.01,5 L 172.01 130.72" id="img-9724bfce-33"/>
+      <path fill="none" d="M221.57,5 L 221.57 130.72" id="img-9724bfce-34"/>
+      <path fill="none" d="M271.14,5 L 271.14 130.72" id="img-9724bfce-35"/>
+    </g>
+    <g class="plotpanel" id="img-9724bfce-36">
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" stroke-dasharray="none" id="img-9724bfce-37">
+        <path fill="none" d="M23.3,111.8 L 48.09 97.13 72.87 92.38 97.66 75.16 122.44 85.93 147.22 95.18 172.01 85.14 196.79 94.39 221.57 72.3 246.36 84.35 271.14 76.62" id="img-9724bfce-38" stroke="#00B78D" class="geometry color_ultrasound"/>
+        <path fill="none" d="M23.3,109.97 L 48.09 97.68 72.87 89.28 97.66 63.11 122.44 95.97 147.22 95.24 172.01 70.66 196.79 115.33 221.57 67.92 246.36 93.97 271.14 81.37" id="img-9724bfce-39" stroke="#00BFFF" class="geometry color_mri"/>
+        <path fill="none" d="M23.3,47.11 L 48.09 49.66 72.87 50.15 97.66 24.53 122.44 38.71 147.22 76.68 172.01 25.32 196.79 64.63 221.57 38.22 246.36 53.5 271.14 59.4" id="img-9724bfce-40" stroke="#BEA9FF" class="geometry color_biopsy"/>
+        <path fill="none" d="M23.3,107.41 L 48.09 102.24 72.87 87.76 97.66 86.48 122.44 100.9 147.22 90.56 172.01 97.56 196.79 114.96 221.57 88.24 246.36 90.37 271.14 87.09" id="img-9724bfce-41" stroke="#D4CA3A" class="geometry color_tomography"/>
+        <path fill="none" d="M23.3,61.28 L 48.09 9.19 72.87 47.35 97.66 63.9 122.44 52.16 147.22 45.58 172.01 76.19 196.79 60.86 221.57 68.34 246.36 61.04 271.14 77.05" id="img-9724bfce-42" stroke="#FF6DAE" class="geometry color_mammography"/>
+      </g>
+      <g class="geometry" id="img-9724bfce-43">
+        <g stroke-width="0.3" id="img-9724bfce-44">
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-45">
+            <use xlink:href="#img-9724bfce-46" x="271.14" y="59.4" id="img-9724bfce-47"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-48">
+            <use xlink:href="#img-9724bfce-49" x="271.14" y="76.62" id="img-9724bfce-50"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-51">
+            <use xlink:href="#img-9724bfce-52" x="271.14" y="77.05" id="img-9724bfce-53"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-54">
+            <use xlink:href="#img-9724bfce-55" x="271.14" y="87.09" id="img-9724bfce-56"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-57">
+            <use xlink:href="#img-9724bfce-58" x="271.14" y="81.37" id="img-9724bfce-59"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-60">
+            <use xlink:href="#img-9724bfce-61" x="246.36" y="53.5" id="img-9724bfce-62"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-63">
+            <use xlink:href="#img-9724bfce-64" x="246.36" y="84.35" id="img-9724bfce-65"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-66">
+            <use xlink:href="#img-9724bfce-67" x="246.36" y="61.04" id="img-9724bfce-68"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-69">
+            <use xlink:href="#img-9724bfce-70" x="246.36" y="90.37" id="img-9724bfce-71"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-72">
+            <use xlink:href="#img-9724bfce-73" x="246.36" y="93.97" id="img-9724bfce-74"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-75">
+            <use xlink:href="#img-9724bfce-76" x="221.57" y="38.22" id="img-9724bfce-77"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-78">
+            <use xlink:href="#img-9724bfce-79" x="221.57" y="72.3" id="img-9724bfce-80"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-81">
+            <use xlink:href="#img-9724bfce-82" x="221.57" y="68.34" id="img-9724bfce-83"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-84">
+            <use xlink:href="#img-9724bfce-85" x="221.57" y="88.24" id="img-9724bfce-86"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-87">
+            <use xlink:href="#img-9724bfce-88" x="221.57" y="67.92" id="img-9724bfce-89"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-90">
+            <use xlink:href="#img-9724bfce-91" x="196.79" y="64.63" id="img-9724bfce-92"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-93">
+            <use xlink:href="#img-9724bfce-94" x="196.79" y="94.39" id="img-9724bfce-95"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-96">
+            <use xlink:href="#img-9724bfce-97" x="196.79" y="60.86" id="img-9724bfce-98"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-99">
+            <use xlink:href="#img-9724bfce-100" x="196.79" y="114.96" id="img-9724bfce-101"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-102">
+            <use xlink:href="#img-9724bfce-103" x="196.79" y="115.33" id="img-9724bfce-104"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-105">
+            <use xlink:href="#img-9724bfce-106" x="172.01" y="25.32" id="img-9724bfce-107"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-108">
+            <use xlink:href="#img-9724bfce-109" x="172.01" y="85.14" id="img-9724bfce-110"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-111">
+            <use xlink:href="#img-9724bfce-112" x="172.01" y="76.19" id="img-9724bfce-113"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-114">
+            <use xlink:href="#img-9724bfce-115" x="172.01" y="97.56" id="img-9724bfce-116"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-117">
+            <use xlink:href="#img-9724bfce-118" x="172.01" y="70.66" id="img-9724bfce-119"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-120">
+            <use xlink:href="#img-9724bfce-121" x="147.22" y="76.68" id="img-9724bfce-122"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-123">
+            <use xlink:href="#img-9724bfce-124" x="147.22" y="95.18" id="img-9724bfce-125"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-126">
+            <use xlink:href="#img-9724bfce-127" x="147.22" y="45.58" id="img-9724bfce-128"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-129">
+            <use xlink:href="#img-9724bfce-130" x="147.22" y="90.56" id="img-9724bfce-131"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-132">
+            <use xlink:href="#img-9724bfce-133" x="147.22" y="95.24" id="img-9724bfce-134"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-135">
+            <use xlink:href="#img-9724bfce-136" x="122.44" y="38.71" id="img-9724bfce-137"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-138">
+            <use xlink:href="#img-9724bfce-139" x="122.44" y="85.93" id="img-9724bfce-140"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-141">
+            <use xlink:href="#img-9724bfce-142" x="122.44" y="52.16" id="img-9724bfce-143"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-144">
+            <use xlink:href="#img-9724bfce-145" x="122.44" y="100.9" id="img-9724bfce-146"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-147">
+            <use xlink:href="#img-9724bfce-148" x="122.44" y="95.97" id="img-9724bfce-149"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-150">
+            <use xlink:href="#img-9724bfce-151" x="97.66" y="24.53" id="img-9724bfce-152"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-153">
+            <use xlink:href="#img-9724bfce-154" x="97.66" y="75.16" id="img-9724bfce-155"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-156">
+            <use xlink:href="#img-9724bfce-157" x="97.66" y="63.9" id="img-9724bfce-158"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-159">
+            <use xlink:href="#img-9724bfce-160" x="97.66" y="86.48" id="img-9724bfce-161"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-162">
+            <use xlink:href="#img-9724bfce-163" x="97.66" y="63.11" id="img-9724bfce-164"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-165">
+            <use xlink:href="#img-9724bfce-166" x="72.87" y="50.15" id="img-9724bfce-167"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-168">
+            <use xlink:href="#img-9724bfce-169" x="72.87" y="92.38" id="img-9724bfce-170"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-171">
+            <use xlink:href="#img-9724bfce-172" x="72.87" y="47.35" id="img-9724bfce-173"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-174">
+            <use xlink:href="#img-9724bfce-175" x="72.87" y="87.76" id="img-9724bfce-176"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-177">
+            <use xlink:href="#img-9724bfce-178" x="72.87" y="89.28" id="img-9724bfce-179"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-180">
+            <use xlink:href="#img-9724bfce-181" x="48.09" y="49.66" id="img-9724bfce-182"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-183">
+            <use xlink:href="#img-9724bfce-184" x="48.09" y="97.13" id="img-9724bfce-185"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-186">
+            <use xlink:href="#img-9724bfce-187" x="48.09" y="9.19" id="img-9724bfce-188"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-189">
+            <use xlink:href="#img-9724bfce-190" x="48.09" y="102.24" id="img-9724bfce-191"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-192">
+            <use xlink:href="#img-9724bfce-193" x="48.09" y="97.68" id="img-9724bfce-194"/>
+          </g>
+          <g class="color_biopsy" stroke="#FFFFFF" fill="#BEA9FF" id="img-9724bfce-195">
+            <use xlink:href="#img-9724bfce-196" x="23.3" y="47.11" id="img-9724bfce-197"/>
+          </g>
+          <g class="color_ultrasound" stroke="#FFFFFF" fill="#00B78D" id="img-9724bfce-198">
+            <use xlink:href="#img-9724bfce-199" x="23.3" y="111.8" id="img-9724bfce-200"/>
+          </g>
+          <g class="color_mammography" stroke="#FFFFFF" fill="#FF6DAE" id="img-9724bfce-201">
+            <use xlink:href="#img-9724bfce-202" x="23.3" y="61.28" id="img-9724bfce-203"/>
+          </g>
+          <g class="color_tomography" stroke="#FFFFFF" fill="#D4CA3A" id="img-9724bfce-204">
+            <use xlink:href="#img-9724bfce-205" x="23.3" y="107.41" id="img-9724bfce-206"/>
+          </g>
+          <g class="color_mri" stroke="#FFFFFF" fill="#00BFFF" id="img-9724bfce-207">
+            <use xlink:href="#img-9724bfce-208" x="23.3" y="109.97" id="img-9724bfce-209"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-9724bfce-210">
+    <text x="20.3" y="128.71" text-anchor="end" dy="0.35em" id="img-9724bfce-211">0</text>
+    <text x="20.3" y="98.29" text-anchor="end" dy="0.35em" id="img-9724bfce-212">500</text>
+    <text x="20.3" y="67.86" text-anchor="end" dy="0.35em" id="img-9724bfce-213">1000</text>
+    <text x="20.3" y="37.43" text-anchor="end" dy="0.35em" id="img-9724bfce-214">1500</text>
+    <text x="20.3" y="7" text-anchor="end" dy="0.35em" id="img-9724bfce-215">2000</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-9724bfce-216">
+    <text x="8.81" y="65.86" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 67.86)" id="img-9724bfce-217">count</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-9724bfce-19">
+  <path d="M21.31,5 L 273.14 5 273.14 130.72 21.31 130.72" />
+</clipPath>
+  <g id="img-9724bfce-46">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-218"/>
+  </g>
+  <g id="img-9724bfce-49">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-219"/>
+  </g>
+  <g id="img-9724bfce-52">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-220"/>
+  </g>
+  <g id="img-9724bfce-55">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-221"/>
+  </g>
+  <g id="img-9724bfce-58">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-222"/>
+  </g>
+  <g id="img-9724bfce-61">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-223"/>
+  </g>
+  <g id="img-9724bfce-64">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-224"/>
+  </g>
+  <g id="img-9724bfce-67">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-225"/>
+  </g>
+  <g id="img-9724bfce-70">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-226"/>
+  </g>
+  <g id="img-9724bfce-73">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-227"/>
+  </g>
+  <g id="img-9724bfce-76">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-228"/>
+  </g>
+  <g id="img-9724bfce-79">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-229"/>
+  </g>
+  <g id="img-9724bfce-82">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-230"/>
+  </g>
+  <g id="img-9724bfce-85">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-231"/>
+  </g>
+  <g id="img-9724bfce-88">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-232"/>
+  </g>
+  <g id="img-9724bfce-91">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-233"/>
+  </g>
+  <g id="img-9724bfce-94">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-234"/>
+  </g>
+  <g id="img-9724bfce-97">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-235"/>
+  </g>
+  <g id="img-9724bfce-100">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-236"/>
+  </g>
+  <g id="img-9724bfce-103">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-237"/>
+  </g>
+  <g id="img-9724bfce-106">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-238"/>
+  </g>
+  <g id="img-9724bfce-109">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-239"/>
+  </g>
+  <g id="img-9724bfce-112">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-240"/>
+  </g>
+  <g id="img-9724bfce-115">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-241"/>
+  </g>
+  <g id="img-9724bfce-118">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-242"/>
+  </g>
+  <g id="img-9724bfce-121">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-243"/>
+  </g>
+  <g id="img-9724bfce-124">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-244"/>
+  </g>
+  <g id="img-9724bfce-127">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-245"/>
+  </g>
+  <g id="img-9724bfce-130">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-246"/>
+  </g>
+  <g id="img-9724bfce-133">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-247"/>
+  </g>
+  <g id="img-9724bfce-136">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-248"/>
+  </g>
+  <g id="img-9724bfce-139">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-249"/>
+  </g>
+  <g id="img-9724bfce-142">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-250"/>
+  </g>
+  <g id="img-9724bfce-145">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-251"/>
+  </g>
+  <g id="img-9724bfce-148">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-252"/>
+  </g>
+  <g id="img-9724bfce-151">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-253"/>
+  </g>
+  <g id="img-9724bfce-154">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-254"/>
+  </g>
+  <g id="img-9724bfce-157">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-255"/>
+  </g>
+  <g id="img-9724bfce-160">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-256"/>
+  </g>
+  <g id="img-9724bfce-163">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-257"/>
+  </g>
+  <g id="img-9724bfce-166">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-258"/>
+  </g>
+  <g id="img-9724bfce-169">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-259"/>
+  </g>
+  <g id="img-9724bfce-172">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-260"/>
+  </g>
+  <g id="img-9724bfce-175">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-261"/>
+  </g>
+  <g id="img-9724bfce-178">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-262"/>
+  </g>
+  <g id="img-9724bfce-181">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-263"/>
+  </g>
+  <g id="img-9724bfce-184">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-264"/>
+  </g>
+  <g id="img-9724bfce-187">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-265"/>
+  </g>
+  <g id="img-9724bfce-190">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-266"/>
+  </g>
+  <g id="img-9724bfce-193">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-267"/>
+  </g>
+  <g id="img-9724bfce-196">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-268"/>
+  </g>
+  <g id="img-9724bfce-199">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-269"/>
+  </g>
+  <g id="img-9724bfce-202">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-270"/>
+  </g>
+  <g id="img-9724bfce-205">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-271"/>
+  </g>
+  <g id="img-9724bfce-208">
+    <circle cx="0" cy="0" r="0.9" id="img-9724bfce-272"/>
+  </g>
+</defs>
+</svg>

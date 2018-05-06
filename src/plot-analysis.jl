@@ -61,3 +61,50 @@ using Query
          # return
           return(full_text_ng_df,plot)
       end
+
+    # this function generates trends for an array of genes, cells, concepts, therapy
+  function generateTrends(df_full_text, terms=[], startYear = 2008, endYear =2018 )
+
+                  # Create df
+          trend_df = DataFrame(
+                          term=String[],
+                          count=Int64[],
+                          year=Int64[])
+
+            for yr in startYear:endYear
+                # filter by year
+                filtered_df = df_full_text |> @query(i, begin
+                                        @where i.year==yr
+                                        @select {i.fullText}
+                                      end) |> DataFrame
+
+                # clean text and convert to sd
+                sd_array=[]
+                for row in eachrow(filtered_df)
+                    sd,tx=cleanText(row[:fullText])
+                    push!(sd_array,sd)
+                end
+
+                # convert to corpus
+                crp = Corpus(sd_array)
+                #standardize
+                standardize!(crp, StringDocument)
+                #update crp
+                update_lexicon!(crp)
+                update_inverse_index!(crp)
+                lexicon(crp)
+
+                for term in terms
+                    # query corpus
+                   count=sum(crp[term])
+                    # create df and push it to trend_df
+                     temp_df = DataFrame(term=term, count=count, year=yr)
+                     append!(trend_df, temp_df)
+
+                end
+
+
+            end
+
+           return(trend_df)
+  end

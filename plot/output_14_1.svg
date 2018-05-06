@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="300mm" height="150mm" viewBox="0 0 300 150"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-01962eca-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-01962eca-2">
+    <text x="159.69" y="138.39" text-anchor="middle" dy="0.6em">term</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-01962eca-3">
+    <text x="29.21" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 29.21, 109.51)">breast cancer</text>
+    <text x="38.88" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 38.88, 109.51)">nbreast cancer</text>
+    <text x="48.54" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 48.54, 109.51)">breast ncancer</text>
+    <text x="58.21" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 58.21, 109.51)">cancer res</text>
+    <text x="67.87" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 67.87, 109.51)">cancer cells</text>
+    <text x="77.54" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 77.54, 109.51)">cancer patients</text>
+    <text x="87.2" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 87.2, 109.51)">mda mb</text>
+    <text x="96.87" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 96.87, 109.51)">cell lines</text>
+    <text x="106.53" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 106.53, 109.51)">gene expression</text>
+    <text x="116.2" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 116.2, 109.51)">lymph node</text>
+    <text x="125.86" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 125.86, 109.51)">clin oncol</text>
+    <text x="135.53" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 135.53, 109.51)">cancer cell</text>
+    <text x="145.19" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 145.19, 109.51)">cancer research</text>
+    <text x="154.86" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 154.86, 109.51)">tumor cells</text>
+    <text x="164.52" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 164.52, 109.51)">growth factor</text>
+    <text x="174.19" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 174.19, 109.51)">human breast</text>
+    <text x="183.85" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 183.85, 109.51)">breast cancers</text>
+    <text x="193.52" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 193.52, 109.51)">estrogen receptor</text>
+    <text x="203.18" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 203.18, 109.51)">cancer risk</text>
+    <text x="212.85" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 212.85, 109.51)">ud udc</text>
+    <text x="222.51" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 222.51, 109.51)">cancer screening</text>
+    <text x="232.18" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 232.18, 109.51)">negative breast</text>
+    <text x="241.84" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 241.84, 109.51)">triple negative</text>
+    <text x="251.51" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 251.51, 109.51)">free survival</text>
+    <text x="261.17" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 261.17, 109.51)">volume issue</text>
+    <text x="270.84" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 270.84, 109.51)">cell line</text>
+    <text x="280.5" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 280.5, 109.51)">mb cells</text>
+    <text x="290.17" y="109.51" text-anchor="end" dy="0.35em" transform="rotate(-90, 290.17, 109.51)">mcf cells</text>
+  </g>
+<g clip-path="url(#img-01962eca-4)">
+  <g id="img-01962eca-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-01962eca-6">
+      <rect x="24.38" y="5" width="270.62" height="103.51"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-01962eca-7">
+      <path fill="none" d="M24.38,106.51 L 295 106.51"/>
+      <path fill="none" d="M24.38,81.63 L 295 81.63"/>
+      <path fill="none" d="M24.38,56.75 L 295 56.75"/>
+      <path fill="none" d="M24.38,31.88 L 295 31.88"/>
+      <path fill="none" d="M24.38,7 L 295 7"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-01962eca-8">
+      <path fill="none" d="M34.04,5 L 34.04 108.51"/>
+      <path fill="none" d="M43.71,5 L 43.71 108.51"/>
+      <path fill="none" d="M53.37,5 L 53.37 108.51"/>
+      <path fill="none" d="M63.04,5 L 63.04 108.51"/>
+      <path fill="none" d="M72.7,5 L 72.7 108.51"/>
+      <path fill="none" d="M82.37,5 L 82.37 108.51"/>
+      <path fill="none" d="M92.03,5 L 92.03 108.51"/>
+      <path fill="none" d="M101.7,5 L 101.7 108.51"/>
+      <path fill="none" d="M111.36,5 L 111.36 108.51"/>
+      <path fill="none" d="M121.03,5 L 121.03 108.51"/>
+      <path fill="none" d="M130.69,5 L 130.69 108.51"/>
+      <path fill="none" d="M140.36,5 L 140.36 108.51"/>
+      <path fill="none" d="M150.02,5 L 150.02 108.51"/>
+      <path fill="none" d="M159.69,5 L 159.69 108.51"/>
+      <path fill="none" d="M169.35,5 L 169.35 108.51"/>
+      <path fill="none" d="M179.02,5 L 179.02 108.51"/>
+      <path fill="none" d="M188.68,5 L 188.68 108.51"/>
+      <path fill="none" d="M198.35,5 L 198.35 108.51"/>
+      <path fill="none" d="M208.01,5 L 208.01 108.51"/>
+      <path fill="none" d="M217.68,5 L 217.68 108.51"/>
+      <path fill="none" d="M227.34,5 L 227.34 108.51"/>
+      <path fill="none" d="M237.01,5 L 237.01 108.51"/>
+      <path fill="none" d="M246.67,5 L 246.67 108.51"/>
+      <path fill="none" d="M256.34,5 L 256.34 108.51"/>
+      <path fill="none" d="M266,5 L 266 108.51"/>
+      <path fill="none" d="M275.67,5 L 275.67 108.51"/>
+      <path fill="none" d="M285.33,5 L 285.33 108.51"/>
+    </g>
+    <g class="plotpanel" id="img-01962eca-9">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-01962eca-10">
+        <g stroke="#000000" stroke-opacity="0.000" class="geometry" id="img-01962eca-11">
+          <rect x="285.31" y="103.93" width="9.72" height="2.57" fill="#FFA0C8"/>
+          <rect x="275.64" y="103.92" width="9.72" height="2.59" fill="#BCCF6F"/>
+          <rect x="265.98" y="103.77" width="9.72" height="2.74" fill="#00D485"/>
+          <rect x="256.31" y="103.68" width="9.72" height="2.83" fill="#A08CFF"/>
+          <rect x="246.65" y="103.43" width="9.72" height="3.08" fill="#00BBAA"/>
+          <rect x="236.98" y="103.41" width="9.72" height="3.1" fill="#82CAFF"/>
+          <rect x="227.32" y="103.3" width="9.72" height="3.2" fill="#FFAA89"/>
+          <rect x="217.65" y="103.3" width="9.72" height="3.21" fill="#FFA9F6"/>
+          <rect x="207.99" y="103.27" width="9.72" height="3.23" fill="#00E5B2"/>
+          <rect x="198.32" y="103.17" width="9.72" height="3.34" fill="#9E9E9E"/>
+          <rect x="188.66" y="103.15" width="9.72" height="3.35" fill="#32B44E"/>
+          <rect x="178.99" y="102.92" width="9.72" height="3.58" fill="#FF93A4"/>
+          <rect x="169.33" y="102.81" width="9.72" height="3.7" fill="#C39800"/>
+          <rect x="159.66" y="102.78" width="9.72" height="3.73" fill="#00E4FF"/>
+          <rect x="150" y="102.58" width="9.72" height="3.93" fill="#6299FF"/>
+          <rect x="140.33" y="102.41" width="9.72" height="4.1" fill="#00B4BC"/>
+          <rect x="130.67" y="101.94" width="9.72" height="4.57" fill="#FF9A4B"/>
+          <rect x="121" y="101.89" width="9.72" height="4.62" fill="#93A649"/>
+          <rect x="111.34" y="101.86" width="9.72" height="4.65" fill="#E870DD"/>
+          <rect x="101.67" y="101.73" width="9.72" height="4.78" fill="#00E6D3"/>
+          <rect x="92.01" y="100.84" width="9.72" height="5.67" fill="#63DF75"/>
+          <rect x="82.34" y="100.55" width="9.72" height="5.96" fill="#C6C6C6"/>
+          <rect x="72.68" y="99.56" width="9.72" height="6.95" fill="#FF6765"/>
+          <rect x="63.01" y="99.09" width="9.72" height="7.42" fill="#BEA9FF"/>
+          <rect x="53.35" y="98.4" width="9.72" height="8.11" fill="#00B78D"/>
+          <rect x="43.68" y="98.22" width="9.72" height="8.29" fill="#FF6DAE"/>
+          <rect x="34.02" y="96.25" width="9.72" height="10.25" fill="#D4CA3A"/>
+          <rect x="24.35" y="24.22" width="9.72" height="82.29" fill="#00BFFF"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-01962eca-12">
+    <text x="23.38" y="106.51" text-anchor="end" dy="0.35em">0</text>
+    <text x="23.38" y="81.63" text-anchor="end" dy="0.35em">1×10⁴</text>
+    <text x="23.38" y="56.75" text-anchor="end" dy="0.35em">2×10⁴</text>
+    <text x="23.38" y="31.88" text-anchor="end" dy="0.35em">3×10⁴</text>
+    <text x="23.38" y="7" text-anchor="end" dy="0.35em">4×10⁴</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-01962eca-13">
+    <text x="8.81" y="54.75" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 56.75)">count</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-01962eca-4">
+  <path d="M24.38,5 L 295 5 295 108.51 24.38 108.51" />
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="300mm" height="150mm" viewBox="0 0 300 150"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-3dca6cce-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-3dca6cce-2">
+    <text x="149.8" y="138.39" text-anchor="middle" dy="0.6em">year</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-3dca6cce-3">
+    <text x="26.38" y="131.72" text-anchor="middle" dy="0.6em">2008</text>
+    <text x="75.75" y="131.72" text-anchor="middle" dy="0.6em">2010</text>
+    <text x="125.11" y="131.72" text-anchor="middle" dy="0.6em">2012</text>
+    <text x="174.48" y="131.72" text-anchor="middle" dy="0.6em">2014</text>
+    <text x="223.85" y="131.72" text-anchor="middle" dy="0.6em">2016</text>
+    <text x="273.21" y="131.72" text-anchor="middle" dy="0.6em">2018</text>
+  </g>
+  <g class="guide colorkey" id="img-3dca6cce-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-3dca6cce-5">
+      <text x="279.03" y="64.23" dy="0.35em" id="img-3dca6cce-6" class="color_neu">neu</text>
+      <text x="279.03" y="67.86" dy="0.35em" id="img-3dca6cce-7" class="color_estrogen">estrogen</text>
+      <text x="279.03" y="71.48" dy="0.35em" id="img-3dca6cce-8" class="color_progesterone">progesterone</text>
+      <text x="279.03" y="75.11" dy="0.35em" id="img-3dca6cce-9" class="color_sentinel">sentinel</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-3dca6cce-10">
+      <rect x="276.21" y="63.32" width="1.81" height="1.81" id="img-3dca6cce-11" fill="#00BFFF" class="color_neu"/>
+      <rect x="276.21" y="66.95" width="1.81" height="1.81" id="img-3dca6cce-12" fill="#D4CA3A" class="color_estrogen"/>
+      <rect x="276.21" y="70.58" width="1.81" height="1.81" id="img-3dca6cce-13" fill="#FF6DAE" class="color_progesterone"/>
+      <rect x="276.21" y="74.2" width="1.81" height="1.81" id="img-3dca6cce-14" fill="#00B78D" class="color_sentinel"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-3dca6cce-15">
+      <text x="276.21" y="60.41" id="img-3dca6cce-16">term</text>
+    </g>
+  </g>
+<g clip-path="url(#img-3dca6cce-17)">
+  <g id="img-3dca6cce-18">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-3dca6cce-19">
+      <rect x="24.38" y="5" width="250.84" height="125.72" id="img-3dca6cce-20"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-3dca6cce-21">
+      <path fill="none" d="M24.38,128.71 L 275.21 128.71" id="img-3dca6cce-22"/>
+      <path fill="none" d="M24.38,88.14 L 275.21 88.14" id="img-3dca6cce-23"/>
+      <path fill="none" d="M24.38,47.57 L 275.21 47.57" id="img-3dca6cce-24"/>
+      <path fill="none" d="M24.38,7 L 275.21 7" id="img-3dca6cce-25"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-3dca6cce-26">
+      <path fill="none" d="M26.38,5 L 26.38 130.72" id="img-3dca6cce-27"/>
+      <path fill="none" d="M75.75,5 L 75.75 130.72" id="img-3dca6cce-28"/>
+      <path fill="none" d="M125.11,5 L 125.11 130.72" id="img-3dca6cce-29"/>
+      <path fill="none" d="M174.48,5 L 174.48 130.72" id="img-3dca6cce-30"/>
+      <path fill="none" d="M223.85,5 L 223.85 130.72" id="img-3dca6cce-31"/>
+      <path fill="none" d="M273.21,5 L 273.21 130.72" id="img-3dca6cce-32"/>
+    </g>
+    <g class="plotpanel" id="img-3dca6cce-33">
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" stroke-dasharray="none" id="img-3dca6cce-34">
+        <path fill="none" d="M26.38,110.7 L 51.06 113.91 75.75 110.17 100.43 94.76 125.11 106.28 149.8 109.97 174.48 114.47 199.16 114.07 223.85 107.05 248.53 102.79 273.21 116.71" id="img-3dca6cce-35" stroke="#00B78D" class="geometry color_sentinel"/>
+        <path fill="none" d="M26.38,66.64 L 51.06 78.16 75.75 91.43 100.43 81.94 125.11 80.39 149.8 80.68 174.48 93.26 199.16 94.19 223.85 114.11 248.53 102.91 273.21 95.12" id="img-3dca6cce-36" stroke="#00BFFF" class="geometry color_neu"/>
+        <path fill="none" d="M26.38,41.81 L 51.06 37.63 75.75 45.06 100.43 20.1 125.11 33.33 149.8 38.2 174.48 27.04 199.16 13.69 223.85 31.06 248.53 17.99 273.21 51.55" id="img-3dca6cce-37" stroke="#D4CA3A" class="geometry color_estrogen"/>
+        <path fill="none" d="M26.38,73.54 L 51.06 67.33 75.75 75.89 100.43 60.39 125.11 78.45 149.8 65.99 174.48 57.15 199.16 51.79 223.85 56.78 248.53 51.06 273.21 60.96" id="img-3dca6cce-38" stroke="#FF6DAE" class="geometry color_progesterone"/>
+      </g>
+      <g class="geometry" id="img-3dca6cce-39">
+        <g stroke-width="0.3" id="img-3dca6cce-40">
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-41">
+            <use xlink:href="#img-3dca6cce-42" x="273.21" y="116.71" id="img-3dca6cce-43"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-44">
+            <use xlink:href="#img-3dca6cce-45" x="273.21" y="60.96" id="img-3dca6cce-46"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-47">
+            <use xlink:href="#img-3dca6cce-48" x="273.21" y="51.55" id="img-3dca6cce-49"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-50">
+            <use xlink:href="#img-3dca6cce-51" x="273.21" y="95.12" id="img-3dca6cce-52"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-53">
+            <use xlink:href="#img-3dca6cce-54" x="248.53" y="102.79" id="img-3dca6cce-55"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-56">
+            <use xlink:href="#img-3dca6cce-57" x="248.53" y="51.06" id="img-3dca6cce-58"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-59">
+            <use xlink:href="#img-3dca6cce-60" x="248.53" y="17.99" id="img-3dca6cce-61"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-62">
+            <use xlink:href="#img-3dca6cce-63" x="248.53" y="102.91" id="img-3dca6cce-64"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-65">
+            <use xlink:href="#img-3dca6cce-66" x="223.85" y="107.05" id="img-3dca6cce-67"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-68">
+            <use xlink:href="#img-3dca6cce-69" x="223.85" y="56.78" id="img-3dca6cce-70"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-71">
+            <use xlink:href="#img-3dca6cce-72" x="223.85" y="31.06" id="img-3dca6cce-73"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-74">
+            <use xlink:href="#img-3dca6cce-75" x="223.85" y="114.11" id="img-3dca6cce-76"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-77">
+            <use xlink:href="#img-3dca6cce-78" x="199.16" y="114.07" id="img-3dca6cce-79"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-80">
+            <use xlink:href="#img-3dca6cce-81" x="199.16" y="51.79" id="img-3dca6cce-82"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-83">
+            <use xlink:href="#img-3dca6cce-84" x="199.16" y="13.69" id="img-3dca6cce-85"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-86">
+            <use xlink:href="#img-3dca6cce-87" x="199.16" y="94.19" id="img-3dca6cce-88"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-89">
+            <use xlink:href="#img-3dca6cce-90" x="174.48" y="114.47" id="img-3dca6cce-91"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-92">
+            <use xlink:href="#img-3dca6cce-93" x="174.48" y="57.15" id="img-3dca6cce-94"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-95">
+            <use xlink:href="#img-3dca6cce-96" x="174.48" y="27.04" id="img-3dca6cce-97"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-98">
+            <use xlink:href="#img-3dca6cce-99" x="174.48" y="93.26" id="img-3dca6cce-100"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-101">
+            <use xlink:href="#img-3dca6cce-102" x="149.8" y="109.97" id="img-3dca6cce-103"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-104">
+            <use xlink:href="#img-3dca6cce-105" x="149.8" y="65.99" id="img-3dca6cce-106"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-107">
+            <use xlink:href="#img-3dca6cce-108" x="149.8" y="38.2" id="img-3dca6cce-109"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-110">
+            <use xlink:href="#img-3dca6cce-111" x="149.8" y="80.68" id="img-3dca6cce-112"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-113">
+            <use xlink:href="#img-3dca6cce-114" x="125.11" y="106.28" id="img-3dca6cce-115"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-116">
+            <use xlink:href="#img-3dca6cce-117" x="125.11" y="78.45" id="img-3dca6cce-118"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-119">
+            <use xlink:href="#img-3dca6cce-120" x="125.11" y="33.33" id="img-3dca6cce-121"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-122">
+            <use xlink:href="#img-3dca6cce-123" x="125.11" y="80.39" id="img-3dca6cce-124"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-125">
+            <use xlink:href="#img-3dca6cce-126" x="100.43" y="94.76" id="img-3dca6cce-127"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-128">
+            <use xlink:href="#img-3dca6cce-129" x="100.43" y="60.39" id="img-3dca6cce-130"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-131">
+            <use xlink:href="#img-3dca6cce-132" x="100.43" y="20.1" id="img-3dca6cce-133"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-134">
+            <use xlink:href="#img-3dca6cce-135" x="100.43" y="81.94" id="img-3dca6cce-136"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-137">
+            <use xlink:href="#img-3dca6cce-138" x="75.75" y="110.17" id="img-3dca6cce-139"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-140">
+            <use xlink:href="#img-3dca6cce-141" x="75.75" y="75.89" id="img-3dca6cce-142"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-143">
+            <use xlink:href="#img-3dca6cce-144" x="75.75" y="45.06" id="img-3dca6cce-145"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-146">
+            <use xlink:href="#img-3dca6cce-147" x="75.75" y="91.43" id="img-3dca6cce-148"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-149">
+            <use xlink:href="#img-3dca6cce-150" x="51.06" y="113.91" id="img-3dca6cce-151"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-152">
+            <use xlink:href="#img-3dca6cce-153" x="51.06" y="67.33" id="img-3dca6cce-154"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-155">
+            <use xlink:href="#img-3dca6cce-156" x="51.06" y="37.63" id="img-3dca6cce-157"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-158">
+            <use xlink:href="#img-3dca6cce-159" x="51.06" y="78.16" id="img-3dca6cce-160"/>
+          </g>
+          <g class="color_sentinel" stroke="#FFFFFF" fill="#00B78D" id="img-3dca6cce-161">
+            <use xlink:href="#img-3dca6cce-162" x="26.38" y="110.7" id="img-3dca6cce-163"/>
+          </g>
+          <g class="color_progesterone" stroke="#FFFFFF" fill="#FF6DAE" id="img-3dca6cce-164">
+            <use xlink:href="#img-3dca6cce-165" x="26.38" y="73.54" id="img-3dca6cce-166"/>
+          </g>
+          <g class="color_estrogen" stroke="#FFFFFF" fill="#D4CA3A" id="img-3dca6cce-167">
+            <use xlink:href="#img-3dca6cce-168" x="26.38" y="41.81" id="img-3dca6cce-169"/>
+          </g>
+          <g class="color_neu" stroke="#FFFFFF" fill="#00BFFF" id="img-3dca6cce-170">
+            <use xlink:href="#img-3dca6cce-171" x="26.38" y="66.64" id="img-3dca6cce-172"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-3dca6cce-173">
+    <text x="23.38" y="128.71" text-anchor="end" dy="0.35em" id="img-3dca6cce-174">0</text>
+    <text x="23.38" y="88.14" text-anchor="end" dy="0.35em" id="img-3dca6cce-175">1×10³</text>
+    <text x="23.38" y="47.57" text-anchor="end" dy="0.35em" id="img-3dca6cce-176">2×10³</text>
+    <text x="23.38" y="7" text-anchor="end" dy="0.35em" id="img-3dca6cce-177">3×10³</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-3dca6cce-178">
+    <text x="8.81" y="65.86" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 67.86)" id="img-3dca6cce-179">count</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-3dca6cce-17">
+  <path d="M24.38,5 L 275.21 5 275.21 130.72 24.38 130.72" />
+</clipPath>
+  <g id="img-3dca6cce-42">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-180"/>
+  </g>
+  <g id="img-3dca6cce-45">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-181"/>
+  </g>
+  <g id="img-3dca6cce-48">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-182"/>
+  </g>
+  <g id="img-3dca6cce-51">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-183"/>
+  </g>
+  <g id="img-3dca6cce-54">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-184"/>
+  </g>
+  <g id="img-3dca6cce-57">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-185"/>
+  </g>
+  <g id="img-3dca6cce-60">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-186"/>
+  </g>
+  <g id="img-3dca6cce-63">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-187"/>
+  </g>
+  <g id="img-3dca6cce-66">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-188"/>
+  </g>
+  <g id="img-3dca6cce-69">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-189"/>
+  </g>
+  <g id="img-3dca6cce-72">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-190"/>
+  </g>
+  <g id="img-3dca6cce-75">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-191"/>
+  </g>
+  <g id="img-3dca6cce-78">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-192"/>
+  </g>
+  <g id="img-3dca6cce-81">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-193"/>
+  </g>
+  <g id="img-3dca6cce-84">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-194"/>
+  </g>
+  <g id="img-3dca6cce-87">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-195"/>
+  </g>
+  <g id="img-3dca6cce-90">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-196"/>
+  </g>
+  <g id="img-3dca6cce-93">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-197"/>
+  </g>
+  <g id="img-3dca6cce-96">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-198"/>
+  </g>
+  <g id="img-3dca6cce-99">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-199"/>
+  </g>
+  <g id="img-3dca6cce-102">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-200"/>
+  </g>
+  <g id="img-3dca6cce-105">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-201"/>
+  </g>
+  <g id="img-3dca6cce-108">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-202"/>
+  </g>
+  <g id="img-3dca6cce-111">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-203"/>
+  </g>
+  <g id="img-3dca6cce-114">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-204"/>
+  </g>
+  <g id="img-3dca6cce-117">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-205"/>
+  </g>
+  <g id="img-3dca6cce-120">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-206"/>
+  </g>
+  <g id="img-3dca6cce-123">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-207"/>
+  </g>
+  <g id="img-3dca6cce-126">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-208"/>
+  </g>
+  <g id="img-3dca6cce-129">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-209"/>
+  </g>
+  <g id="img-3dca6cce-132">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-210"/>
+  </g>
+  <g id="img-3dca6cce-135">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-211"/>
+  </g>
+  <g id="img-3dca6cce-138">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-212"/>
+  </g>
+  <g id="img-3dca6cce-141">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-213"/>
+  </g>
+  <g id="img-3dca6cce-144">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-214"/>
+  </g>
+  <g id="img-3dca6cce-147">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-215"/>
+  </g>
+  <g id="img-3dca6cce-150">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-216"/>
+  </g>
+  <g id="img-3dca6cce-153">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-217"/>
+  </g>
+  <g id="img-3dca6cce-156">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-218"/>
+  </g>
+  <g id="img-3dca6cce-159">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-219"/>
+  </g>
+  <g id="img-3dca6cce-162">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-220"/>
+  </g>
+  <g id="img-3dca6cce-165">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-221"/>
+  </g>
+  <g id="img-3dca6cce-168">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-222"/>
+  </g>
+  <g id="img-3dca6cce-171">
+    <circle cx="0" cy="0" r="0.9" id="img-3dca6cce-223"/>
+  </g>
+</defs>
+</svg>

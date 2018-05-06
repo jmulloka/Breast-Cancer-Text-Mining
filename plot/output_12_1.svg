@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="300mm" height="150mm" viewBox="0 0 300 150"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-da716a7b-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-da716a7b-2">
+    <text x="133.74" y="138.39" text-anchor="middle" dy="0.6em">term</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-da716a7b-3">
+    <text x="28.48" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 28.48, 114.32)">cancer</text>
+    <text x="31.99" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 31.99, 114.32)">breast</text>
+    <text x="35.5" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 35.5, 114.32)">cells</text>
+    <text x="39.01" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 39.01, 114.32)">patients</text>
+    <text x="42.51" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 42.51, 114.32)">cell</text>
+    <text x="46.02" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 46.02, 114.32)">study</text>
+    <text x="49.53" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 49.53, 114.32)">tumor</text>
+    <text x="53.04" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 53.04, 114.32)">expression</text>
+    <text x="56.55" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 56.55, 114.32)">analysis</text>
+    <text x="60.06" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 60.06, 114.32)">data</text>
+    <text x="63.57" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 63.57, 114.32)">women</text>
+    <text x="67.08" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 67.08, 114.32)">treatment</text>
+    <text x="70.58" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 70.58, 114.32)">risk</text>
+    <text x="74.09" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 74.09, 114.32)">clinical</text>
+    <text x="77.6" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 77.6, 114.32)">positive</text>
+    <text x="81.11" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 81.11, 114.32)">survival</text>
+    <text x="84.62" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 84.62, 114.32)">results</text>
+    <text x="88.13" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 88.13, 114.32)">gene</text>
+    <text x="91.64" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 91.64, 114.32)">screening</text>
+    <text x="95.15" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 95.15, 114.32)">ncancer</text>
+    <text x="98.65" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 98.65, 114.32)">er</text>
+    <text x="102.16" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 102.16, 114.32)">ne</text>
+    <text x="105.67" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 105.67, 114.32)">studies</text>
+    <text x="109.18" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 109.18, 114.32)">negative</text>
+    <text x="112.69" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 112.69, 114.32)">nbreast</text>
+    <text x="116.2" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 116.2, 114.32)">receptor</text>
+    <text x="119.71" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 119.71, 114.32)">human</text>
+    <text x="123.22" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 123.22, 114.32)">time</text>
+    <text x="126.72" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 126.72, 114.32)">associated</text>
+    <text x="130.23" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 130.23, 114.32)">tissue</text>
+    <text x="133.74" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 133.74, 114.32)">health</text>
+    <text x="137.25" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 137.25, 114.32)">tumors</text>
+    <text x="140.76" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 140.76, 114.32)">research</text>
+    <text x="144.27" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 144.27, 114.32)">therapy</text>
+    <text x="147.78" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 147.78, 114.32)">status</text>
+    <text x="151.29" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 151.29, 114.32)">nto</text>
+    <text x="154.8" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 154.8, 114.32)">figure</text>
+    <text x="158.3" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 158.3, 114.32)">imaging</text>
+    <text x="161.81" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 161.81, 114.32)">res</text>
+    <text x="165.32" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 165.32, 114.32)">disease</text>
+    <text x="168.83" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 168.83, 114.32)">protein</text>
+    <text x="172.34" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 172.34, 114.32)">patient</text>
+    <text x="175.85" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 175.85, 114.32)">chemotherapy</text>
+    <text x="179.36" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 179.36, 114.32)">age</text>
+    <text x="182.87" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 182.87, 114.32)">control</text>
+    <text x="186.37" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 186.37, 114.32)">nwith</text>
+    <text x="189.88" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 189.88, 114.32)">levels</text>
+    <text x="193.39" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 193.39, 114.32)">model</text>
+    <text x="196.9" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 196.9, 114.32)">growth</text>
+    <text x="200.41" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 200.41, 114.32)">nc</text>
+    <text x="203.92" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 203.92, 114.32)">genes</text>
+    <text x="207.43" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 207.43, 114.32)">nd</text>
+    <text x="210.94" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 210.94, 114.32)">clin</text>
+    <text x="214.44" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 214.44, 114.32)">primary</text>
+    <text x="217.95" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 217.95, 114.32)">compared</text>
+    <text x="221.46" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 221.46, 114.32)">carcinoma</text>
+    <text x="224.97" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 224.97, 114.32)">low</text>
+    <text x="228.48" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 228.48, 114.32)">performed</text>
+    <text x="231.99" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 231.99, 114.32)">nr</text>
+    <text x="235.5" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 235.5, 114.32)">nt</text>
+    <text x="239.01" y="114.32" text-anchor="end" dy="0.35em" transform="rotate(-90, 239.01, 114.32)">oncol</text>
+  </g>
+  <g class="guide colorkey" id="img-da716a7b-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-da716a7b-5">
+      <text x="277.81" y="24.71" dy="0.35em" id="img-da716a7b-6" class="color_chemotherapy">chemotherapy</text>
+      <text x="277.81" y="28.33" dy="0.35em" id="img-da716a7b-7" class="color_age">age</text>
+      <text x="277.81" y="31.96" dy="0.35em" id="img-da716a7b-8" class="color_control">control</text>
+      <text x="277.81" y="35.59" dy="0.35em" id="img-da716a7b-9" class="color_nwith">nwith</text>
+      <text x="277.81" y="39.21" dy="0.35em" id="img-da716a7b-10" class="color_levels">levels</text>
+      <text x="277.81" y="42.84" dy="0.35em" id="img-da716a7b-11" class="color_model">model</text>
+      <text x="277.81" y="46.47" dy="0.35em" id="img-da716a7b-12" class="color_growth">growth</text>
+      <text x="277.81" y="50.09" dy="0.35em" id="img-da716a7b-13" class="color_nc">nc</text>
+      <text x="277.81" y="53.72" dy="0.35em" id="img-da716a7b-14" class="color_genes">genes</text>
+      <text x="277.81" y="57.35" dy="0.35em" id="img-da716a7b-15" class="color_nd">nd</text>
+      <text x="277.81" y="60.97" dy="0.35em" id="img-da716a7b-16" class="color_clin">clin</text>
+      <text x="277.81" y="64.6" dy="0.35em" id="img-da716a7b-17" class="color_primary">primary</text>
+      <text x="277.81" y="68.23" dy="0.35em" id="img-da716a7b-18" class="color_compared">compared</text>
+      <text x="277.81" y="71.85" dy="0.35em" id="img-da716a7b-19" class="color_carcinoma">carcinoma</text>
+      <text x="277.81" y="75.48" dy="0.35em" id="img-da716a7b-20" class="color_low">low</text>
+      <text x="277.81" y="79.11" dy="0.35em" id="img-da716a7b-21" class="color_performed">performed</text>
+      <text x="277.81" y="82.73" dy="0.35em" id="img-da716a7b-22" class="color_nr">nr</text>
+      <text x="277.81" y="86.36" dy="0.35em" id="img-da716a7b-23" class="color_nt">nt</text>
+      <text x="277.81" y="89.99" dy="0.35em" id="img-da716a7b-24" class="color_oncol">oncol</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-da716a7b-25">
+      <rect x="275" y="23.8" width="1.81" height="1.81" id="img-da716a7b-26" fill="#66B032" class="color_chemotherapy"/>
+      <rect x="275" y="27.43" width="1.81" height="1.81" id="img-da716a7b-27" fill="#FFB445" class="color_age"/>
+      <rect x="275" y="31.05" width="1.81" height="1.81" id="img-da716a7b-28" fill="#A6C537" class="color_control"/>
+      <rect x="275" y="34.68" width="1.81" height="1.81" id="img-da716a7b-29" fill="#88B962" class="color_nwith"/>
+      <rect x="275" y="38.31" width="1.81" height="1.81" id="img-da716a7b-30" fill="#68DCA2" class="color_levels"/>
+      <rect x="275" y="41.93" width="1.81" height="1.81" id="img-da716a7b-31" fill="#F08031" class="color_model"/>
+      <rect x="275" y="45.56" width="1.81" height="1.81" id="img-da716a7b-32" fill="#9CB4FF" class="color_growth"/>
+      <rect x="275" y="49.19" width="1.81" height="1.81" id="img-da716a7b-33" fill="#27D0AB" class="color_nc"/>
+      <rect x="275" y="52.81" width="1.81" height="1.81" id="img-da716a7b-34" fill="#F88F6F" class="color_genes"/>
+      <rect x="275" y="56.44" width="1.81" height="1.81" id="img-da716a7b-35" fill="#DB8D17" class="color_nd"/>
+      <rect x="275" y="60.07" width="1.81" height="1.81" id="img-da716a7b-36" fill="#A3D57C" class="color_clin"/>
+      <rect x="275" y="63.69" width="1.81" height="1.81" id="img-da716a7b-37" fill="#8AAA16" class="color_primary"/>
+      <rect x="275" y="67.32" width="1.81" height="1.81" id="img-da716a7b-38" fill="#E38ED9" class="color_compared"/>
+      <rect x="275" y="70.95" width="1.81" height="1.81" id="img-da716a7b-39" fill="#E1B32A" class="color_carcinoma"/>
+      <rect x="275" y="74.57" width="1.81" height="1.81" id="img-da716a7b-40" fill="#FF8AC9" class="color_low"/>
+      <rect x="275" y="78.2" width="1.81" height="1.81" id="img-da716a7b-41" fill="#FF8CFA" class="color_performed"/>
+      <rect x="275" y="81.83" width="1.81" height="1.81" id="img-da716a7b-42" fill="#00D0C2" class="color_nr"/>
+      <rect x="275" y="85.45" width="1.81" height="1.81" id="img-da716a7b-43" fill="#FFB279" class="color_nt"/>
+      <rect x="275" y="89.08" width="1.81" height="1.81" id="img-da716a7b-44" fill="#EC975F" class="color_oncol"/>
+    </g>
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-da716a7b-45">
+      <text x="261.37" y="24.71" dy="0.35em" id="img-da716a7b-46" class="color_ne">ne</text>
+      <text x="261.37" y="28.33" dy="0.35em" id="img-da716a7b-47" class="color_studies">studies</text>
+      <text x="261.37" y="31.96" dy="0.35em" id="img-da716a7b-48" class="color_negative">negative</text>
+      <text x="261.37" y="35.59" dy="0.35em" id="img-da716a7b-49" class="color_nbreast">nbreast</text>
+      <text x="261.37" y="39.21" dy="0.35em" id="img-da716a7b-50" class="color_receptor">receptor</text>
+      <text x="261.37" y="42.84" dy="0.35em" id="img-da716a7b-51" class="color_human">human</text>
+      <text x="261.37" y="46.47" dy="0.35em" id="img-da716a7b-52" class="color_time">time</text>
+      <text x="261.37" y="50.09" dy="0.35em" id="img-da716a7b-53" class="color_associated">associated</text>
+      <text x="261.37" y="53.72" dy="0.35em" id="img-da716a7b-54" class="color_tissue">tissue</text>
+      <text x="261.37" y="57.35" dy="0.35em" id="img-da716a7b-55" class="color_health">health</text>
+      <text x="261.37" y="60.97" dy="0.35em" id="img-da716a7b-56" class="color_tumors">tumors</text>
+      <text x="261.37" y="64.6" dy="0.35em" id="img-da716a7b-57" class="color_research">research</text>
+      <text x="261.37" y="68.23" dy="0.35em" id="img-da716a7b-58" class="color_therapy">therapy</text>
+      <text x="261.37" y="71.85" dy="0.35em" id="img-da716a7b-59" class="color_status">status</text>
+      <text x="261.37" y="75.48" dy="0.35em" id="img-da716a7b-60" class="color_nto">nto</text>
+      <text x="261.37" y="79.11" dy="0.35em" id="img-da716a7b-61" class="color_figure">figure</text>
+      <text x="261.37" y="82.73" dy="0.35em" id="img-da716a7b-62" class="color_imaging">imaging</text>
+      <text x="261.37" y="86.36" dy="0.35em" id="img-da716a7b-63" class="color_res">res</text>
+      <text x="261.37" y="89.99" dy="0.35em" id="img-da716a7b-64" class="color_disease">disease</text>
+      <text x="261.37" y="93.61" dy="0.35em" id="img-da716a7b-65" class="color_protein">protein</text>
+      <text x="261.37" y="97.24" dy="0.35em" id="img-da716a7b-66" class="color_patient">patient</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-da716a7b-67">
+      <rect x="258.56" y="23.8" width="1.81" height="1.81" id="img-da716a7b-68" fill="#FFAA89" class="color_ne"/>
+      <rect x="258.56" y="27.43" width="1.81" height="1.81" id="img-da716a7b-69" fill="#82CAFF" class="color_studies"/>
+      <rect x="258.56" y="31.05" width="1.81" height="1.81" id="img-da716a7b-70" fill="#00BBAA" class="color_negative"/>
+      <rect x="258.56" y="34.68" width="1.81" height="1.81" id="img-da716a7b-71" fill="#A08CFF" class="color_nbreast"/>
+      <rect x="258.56" y="38.31" width="1.81" height="1.81" id="img-da716a7b-72" fill="#00D485" class="color_receptor"/>
+      <rect x="258.56" y="41.93" width="1.81" height="1.81" id="img-da716a7b-73" fill="#BCCF6F" class="color_human"/>
+      <rect x="258.56" y="45.56" width="1.81" height="1.81" id="img-da716a7b-74" fill="#FFA0C8" class="color_time"/>
+      <rect x="258.56" y="49.19" width="1.81" height="1.81" id="img-da716a7b-75" fill="#FF5F82" class="color_associated"/>
+      <rect x="258.56" y="52.81" width="1.81" height="1.81" id="img-da716a7b-76" fill="#C483E9" class="color_tissue"/>
+      <rect x="258.56" y="56.44" width="1.81" height="1.81" id="img-da716a7b-77" fill="#FF734A" class="color_health"/>
+      <rect x="258.56" y="60.07" width="1.81" height="1.81" id="img-da716a7b-78" fill="#82CC4D" class="color_tumors"/>
+      <rect x="258.56" y="63.69" width="1.81" height="1.81" id="img-da716a7b-79" fill="#FF928B" class="color_research"/>
+      <rect x="258.56" y="67.32" width="1.81" height="1.81" id="img-da716a7b-80" fill="#E799FF" class="color_therapy"/>
+      <rect x="258.56" y="70.95" width="1.81" height="1.81" id="img-da716a7b-81" fill="#00B573" class="color_status"/>
+      <rect x="258.56" y="74.57" width="1.81" height="1.81" id="img-da716a7b-82" fill="#DAB45B" class="color_nto"/>
+      <rect x="258.56" y="78.2" width="1.81" height="1.81" id="img-da716a7b-83" fill="#00D0D8" class="color_figure"/>
+      <rect x="258.56" y="81.83" width="1.81" height="1.81" id="img-da716a7b-84" fill="#CE9247" class="color_imaging"/>
+      <rect x="258.56" y="85.45" width="1.81" height="1.81" id="img-da716a7b-85" fill="#6CBD73" class="color_res"/>
+      <rect x="258.56" y="89.08" width="1.81" height="1.81" id="img-da716a7b-86" fill="#00C4E9" class="color_disease"/>
+      <rect x="258.56" y="92.71" width="1.81" height="1.81" id="img-da716a7b-87" fill="#B7AE38" class="color_protein"/>
+      <rect x="258.56" y="96.33" width="1.81" height="1.81" id="img-da716a7b-88" fill="#00B0FE" class="color_patient"/>
+    </g>
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-da716a7b-89">
+      <text x="244.57" y="24.71" dy="0.35em" id="img-da716a7b-90" class="color_cancer">cancer</text>
+      <text x="244.57" y="28.33" dy="0.35em" id="img-da716a7b-91" class="color_breast">breast</text>
+      <text x="244.57" y="31.96" dy="0.35em" id="img-da716a7b-92" class="color_cells">cells</text>
+      <text x="244.57" y="35.59" dy="0.35em" id="img-da716a7b-93" class="color_patients">patients</text>
+      <text x="244.57" y="39.21" dy="0.35em" id="img-da716a7b-94" class="color_cell">cell</text>
+      <text x="244.57" y="42.84" dy="0.35em" id="img-da716a7b-95" class="color_study">study</text>
+      <text x="244.57" y="46.47" dy="0.35em" id="img-da716a7b-96" class="color_tumor">tumor</text>
+      <text x="244.57" y="50.09" dy="0.35em" id="img-da716a7b-97" class="color_expression">expression</text>
+      <text x="244.57" y="53.72" dy="0.35em" id="img-da716a7b-98" class="color_analysis">analysis</text>
+      <text x="244.57" y="57.35" dy="0.35em" id="img-da716a7b-99" class="color_data">data</text>
+      <text x="244.57" y="60.97" dy="0.35em" id="img-da716a7b-100" class="color_women">women</text>
+      <text x="244.57" y="64.6" dy="0.35em" id="img-da716a7b-101" class="color_treatment">treatment</text>
+      <text x="244.57" y="68.23" dy="0.35em" id="img-da716a7b-102" class="color_risk">risk</text>
+      <text x="244.57" y="71.85" dy="0.35em" id="img-da716a7b-103" class="color_clinical">clinical</text>
+      <text x="244.57" y="75.48" dy="0.35em" id="img-da716a7b-104" class="color_positive">positive</text>
+      <text x="244.57" y="79.11" dy="0.35em" id="img-da716a7b-105" class="color_survival">survival</text>
+      <text x="244.57" y="82.73" dy="0.35em" id="img-da716a7b-106" class="color_results">results</text>
+      <text x="244.57" y="86.36" dy="0.35em" id="img-da716a7b-107" class="color_gene">gene</text>
+      <text x="244.57" y="89.99" dy="0.35em" id="img-da716a7b-108" class="color_screening">screening</text>
+      <text x="244.57" y="93.61" dy="0.35em" id="img-da716a7b-109" class="color_ncancer">ncancer</text>
+      <text x="244.57" y="97.24" dy="0.35em" id="img-da716a7b-110" class="color_er">er</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-da716a7b-111">
+      <rect x="241.76" y="23.8" width="1.81" height="1.81" id="img-da716a7b-112" fill="#00BFFF" class="color_cancer"/>
+      <rect x="241.76" y="27.43" width="1.81" height="1.81" id="img-da716a7b-113" fill="#D4CA3A" class="color_breast"/>
+      <rect x="241.76" y="31.05" width="1.81" height="1.81" id="img-da716a7b-114" fill="#FF6DAE" class="color_cells"/>
+      <rect x="241.76" y="34.68" width="1.81" height="1.81" id="img-da716a7b-115" fill="#00B78D" class="color_patients"/>
+      <rect x="241.76" y="38.31" width="1.81" height="1.81" id="img-da716a7b-116" fill="#BEA9FF" class="color_cell"/>
+      <rect x="241.76" y="41.93" width="1.81" height="1.81" id="img-da716a7b-117" fill="#FF6765" class="color_study"/>
+      <rect x="241.76" y="45.56" width="1.81" height="1.81" id="img-da716a7b-118" fill="#C6C6C6" class="color_tumor"/>
+      <rect x="241.76" y="49.19" width="1.81" height="1.81" id="img-da716a7b-119" fill="#63DF75" class="color_expression"/>
+      <rect x="241.76" y="52.81" width="1.81" height="1.81" id="img-da716a7b-120" fill="#00E6D3" class="color_analysis"/>
+      <rect x="241.76" y="56.44" width="1.81" height="1.81" id="img-da716a7b-121" fill="#E870DD" class="color_data"/>
+      <rect x="241.76" y="60.07" width="1.81" height="1.81" id="img-da716a7b-122" fill="#93A649" class="color_women"/>
+      <rect x="241.76" y="63.69" width="1.81" height="1.81" id="img-da716a7b-123" fill="#FF9A4B" class="color_treatment"/>
+      <rect x="241.76" y="67.32" width="1.81" height="1.81" id="img-da716a7b-124" fill="#00B4BC" class="color_risk"/>
+      <rect x="241.76" y="70.95" width="1.81" height="1.81" id="img-da716a7b-125" fill="#6299FF" class="color_clinical"/>
+      <rect x="241.76" y="74.57" width="1.81" height="1.81" id="img-da716a7b-126" fill="#00E4FF" class="color_positive"/>
+      <rect x="241.76" y="78.2" width="1.81" height="1.81" id="img-da716a7b-127" fill="#C39800" class="color_survival"/>
+      <rect x="241.76" y="81.83" width="1.81" height="1.81" id="img-da716a7b-128" fill="#FF93A4" class="color_results"/>
+      <rect x="241.76" y="85.45" width="1.81" height="1.81" id="img-da716a7b-129" fill="#32B44E" class="color_gene"/>
+      <rect x="241.76" y="89.08" width="1.81" height="1.81" id="img-da716a7b-130" fill="#9E9E9E" class="color_screening"/>
+      <rect x="241.76" y="92.71" width="1.81" height="1.81" id="img-da716a7b-131" fill="#00E5B2" class="color_ncancer"/>
+      <rect x="241.76" y="96.33" width="1.81" height="1.81" id="img-da716a7b-132" fill="#FFA9F6" class="color_er"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-da716a7b-133">
+      <text x="241.76" y="20.89" id="img-da716a7b-134">term</text>
+    </g>
+  </g>
+<g clip-path="url(#img-da716a7b-135)">
+  <g id="img-da716a7b-136">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-da716a7b-137">
+      <rect x="26.73" y="5" width="214.04" height="108.32" id="img-da716a7b-138"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-da716a7b-139">
+      <path fill="none" d="M26.73,111.32 L 240.76 111.32" id="img-da716a7b-140"/>
+      <path fill="none" d="M26.73,85.24 L 240.76 85.24" id="img-da716a7b-141"/>
+      <path fill="none" d="M26.73,59.16 L 240.76 59.16" id="img-da716a7b-142"/>
+      <path fill="none" d="M26.73,33.08 L 240.76 33.08" id="img-da716a7b-143"/>
+      <path fill="none" d="M26.73,7 L 240.76 7" id="img-da716a7b-144"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-da716a7b-145">
+      <path fill="none" d="M30.23,5 L 30.23 113.32" id="img-da716a7b-146"/>
+      <path fill="none" d="M33.74,5 L 33.74 113.32" id="img-da716a7b-147"/>
+      <path fill="none" d="M37.25,5 L 37.25 113.32" id="img-da716a7b-148"/>
+      <path fill="none" d="M40.76,5 L 40.76 113.32" id="img-da716a7b-149"/>
+      <path fill="none" d="M44.27,5 L 44.27 113.32" id="img-da716a7b-150"/>
+      <path fill="none" d="M47.78,5 L 47.78 113.32" id="img-da716a7b-151"/>
+      <path fill="none" d="M51.29,5 L 51.29 113.32" id="img-da716a7b-152"/>
+      <path fill="none" d="M54.8,5 L 54.8 113.32" id="img-da716a7b-153"/>
+      <path fill="none" d="M58.3,5 L 58.3 113.32" id="img-da716a7b-154"/>
+      <path fill="none" d="M61.81,5 L 61.81 113.32" id="img-da716a7b-155"/>
+      <path fill="none" d="M65.32,5 L 65.32 113.32" id="img-da716a7b-156"/>
+      <path fill="none" d="M68.83,5 L 68.83 113.32" id="img-da716a7b-157"/>
+      <path fill="none" d="M72.34,5 L 72.34 113.32" id="img-da716a7b-158"/>
+      <path fill="none" d="M75.85,5 L 75.85 113.32" id="img-da716a7b-159"/>
+      <path fill="none" d="M79.36,5 L 79.36 113.32" id="img-da716a7b-160"/>
+      <path fill="none" d="M82.87,5 L 82.87 113.32" id="img-da716a7b-161"/>
+      <path fill="none" d="M86.37,5 L 86.37 113.32" id="img-da716a7b-162"/>
+      <path fill="none" d="M89.88,5 L 89.88 113.32" id="img-da716a7b-163"/>
+      <path fill="none" d="M93.39,5 L 93.39 113.32" id="img-da716a7b-164"/>
+      <path fill="none" d="M96.9,5 L 96.9 113.32" id="img-da716a7b-165"/>
+      <path fill="none" d="M100.41,5 L 100.41 113.32" id="img-da716a7b-166"/>
+      <path fill="none" d="M103.92,5 L 103.92 113.32" id="img-da716a7b-167"/>
+      <path fill="none" d="M107.43,5 L 107.43 113.32" id="img-da716a7b-168"/>
+      <path fill="none" d="M110.94,5 L 110.94 113.32" id="img-da716a7b-169"/>
+      <path fill="none" d="M114.44,5 L 114.44 113.32" id="img-da716a7b-170"/>
+      <path fill="none" d="M117.95,5 L 117.95 113.32" id="img-da716a7b-171"/>
+      <path fill="none" d="M121.46,5 L 121.46 113.32" id="img-da716a7b-172"/>
+      <path fill="none" d="M124.97,5 L 124.97 113.32" id="img-da716a7b-173"/>
+      <path fill="none" d="M128.48,5 L 128.48 113.32" id="img-da716a7b-174"/>
+      <path fill="none" d="M131.99,5 L 131.99 113.32" id="img-da716a7b-175"/>
+      <path fill="none" d="M135.5,5 L 135.5 113.32" id="img-da716a7b-176"/>
+      <path fill="none" d="M139.01,5 L 139.01 113.32" id="img-da716a7b-177"/>
+      <path fill="none" d="M142.51,5 L 142.51 113.32" id="img-da716a7b-178"/>
+      <path fill="none" d="M146.02,5 L 146.02 113.32" id="img-da716a7b-179"/>
+      <path fill="none" d="M149.53,5 L 149.53 113.32" id="img-da716a7b-180"/>
+      <path fill="none" d="M153.04,5 L 153.04 113.32" id="img-da716a7b-181"/>
+      <path fill="none" d="M156.55,5 L 156.55 113.32" id="img-da716a7b-182"/>
+      <path fill="none" d="M160.06,5 L 160.06 113.32" id="img-da716a7b-183"/>
+      <path fill="none" d="M163.57,5 L 163.57 113.32" id="img-da716a7b-184"/>
+      <path fill="none" d="M167.08,5 L 167.08 113.32" id="img-da716a7b-185"/>
+      <path fill="none" d="M170.58,5 L 170.58 113.32" id="img-da716a7b-186"/>
+      <path fill="none" d="M174.09,5 L 174.09 113.32" id="img-da716a7b-187"/>
+      <path fill="none" d="M177.6,5 L 177.6 113.32" id="img-da716a7b-188"/>
+      <path fill="none" d="M181.11,5 L 181.11 113.32" id="img-da716a7b-189"/>
+      <path fill="none" d="M184.62,5 L 184.62 113.32" id="img-da716a7b-190"/>
+      <path fill="none" d="M188.13,5 L 188.13 113.32" id="img-da716a7b-191"/>
+      <path fill="none" d="M191.64,5 L 191.64 113.32" id="img-da716a7b-192"/>
+      <path fill="none" d="M195.15,5 L 195.15 113.32" id="img-da716a7b-193"/>
+      <path fill="none" d="M198.65,5 L 198.65 113.32" id="img-da716a7b-194"/>
+      <path fill="none" d="M202.16,5 L 202.16 113.32" id="img-da716a7b-195"/>
+      <path fill="none" d="M205.67,5 L 205.67 113.32" id="img-da716a7b-196"/>
+      <path fill="none" d="M209.18,5 L 209.18 113.32" id="img-da716a7b-197"/>
+      <path fill="none" d="M212.69,5 L 212.69 113.32" id="img-da716a7b-198"/>
+      <path fill="none" d="M216.2,5 L 216.2 113.32" id="img-da716a7b-199"/>
+      <path fill="none" d="M219.71,5 L 219.71 113.32" id="img-da716a7b-200"/>
+      <path fill="none" d="M223.22,5 L 223.22 113.32" id="img-da716a7b-201"/>
+      <path fill="none" d="M226.72,5 L 226.72 113.32" id="img-da716a7b-202"/>
+      <path fill="none" d="M230.23,5 L 230.23 113.32" id="img-da716a7b-203"/>
+      <path fill="none" d="M233.74,5 L 233.74 113.32" id="img-da716a7b-204"/>
+      <path fill="none" d="M237.25,5 L 237.25 113.32" id="img-da716a7b-205"/>
+    </g>
+    <g class="plotpanel" id="img-da716a7b-206">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-da716a7b-207">
+        <g stroke="#000000" stroke-opacity="0.000" class="geometry" id="img-da716a7b-208">
+          <rect x="237.23" y="106.07" width="3.56" height="5.25" id="img-da716a7b-209" fill="#EC975F"/>
+          <rect x="233.72" y="106.06" width="3.56" height="5.27" id="img-da716a7b-210" fill="#FFB279"/>
+          <rect x="230.21" y="106.04" width="3.56" height="5.28" id="img-da716a7b-211" fill="#00D0C2"/>
+          <rect x="226.7" y="106.01" width="3.56" height="5.31" id="img-da716a7b-212" fill="#FF8CFA"/>
+          <rect x="223.19" y="105.95" width="3.56" height="5.37" id="img-da716a7b-213" fill="#FF8AC9"/>
+          <rect x="219.68" y="105.94" width="3.56" height="5.38" id="img-da716a7b-214" fill="#E1B32A"/>
+          <rect x="216.17" y="105.86" width="3.56" height="5.46" id="img-da716a7b-215" fill="#E38ED9"/>
+          <rect x="212.66" y="105.86" width="3.56" height="5.46" id="img-da716a7b-216" fill="#8AAA16"/>
+          <rect x="209.16" y="105.84" width="3.56" height="5.48" id="img-da716a7b-217" fill="#A3D57C"/>
+          <rect x="205.65" y="105.83" width="3.56" height="5.49" id="img-da716a7b-218" fill="#DB8D17"/>
+          <rect x="202.14" y="105.83" width="3.56" height="5.49" id="img-da716a7b-219" fill="#F88F6F"/>
+          <rect x="198.63" y="105.76" width="3.56" height="5.56" id="img-da716a7b-220" fill="#27D0AB"/>
+          <rect x="195.12" y="105.74" width="3.56" height="5.59" id="img-da716a7b-221" fill="#9CB4FF"/>
+          <rect x="191.61" y="105.71" width="3.56" height="5.61" id="img-da716a7b-222" fill="#F08031"/>
+          <rect x="188.1" y="105.69" width="3.56" height="5.63" id="img-da716a7b-223" fill="#68DCA2"/>
+          <rect x="184.59" y="105.55" width="3.56" height="5.77" id="img-da716a7b-224" fill="#88B962"/>
+          <rect x="181.09" y="105.46" width="3.56" height="5.87" id="img-da716a7b-225" fill="#A6C537"/>
+          <rect x="177.58" y="105.44" width="3.56" height="5.88" id="img-da716a7b-226" fill="#FFB445"/>
+          <rect x="174.07" y="105.37" width="3.56" height="5.95" id="img-da716a7b-227" fill="#66B032"/>
+          <rect x="170.56" y="105.06" width="3.56" height="6.27" id="img-da716a7b-228" fill="#00B0FE"/>
+          <rect x="167.05" y="104.96" width="3.56" height="6.36" id="img-da716a7b-229" fill="#B7AE38"/>
+          <rect x="163.54" y="104.93" width="3.56" height="6.39" id="img-da716a7b-230" fill="#00C4E9"/>
+          <rect x="160.03" y="104.92" width="3.56" height="6.4" id="img-da716a7b-231" fill="#6CBD73"/>
+          <rect x="156.52" y="104.89" width="3.56" height="6.43" id="img-da716a7b-232" fill="#CE9247"/>
+          <rect x="153.02" y="104.83" width="3.56" height="6.49" id="img-da716a7b-233" fill="#00D0D8"/>
+          <rect x="149.51" y="104.79" width="3.56" height="6.53" id="img-da716a7b-234" fill="#DAB45B"/>
+          <rect x="146" y="104.69" width="3.56" height="6.63" id="img-da716a7b-235" fill="#00B573"/>
+          <rect x="142.49" y="104.48" width="3.56" height="6.84" id="img-da716a7b-236" fill="#E799FF"/>
+          <rect x="138.98" y="104.31" width="3.56" height="7.01" id="img-da716a7b-237" fill="#FF928B"/>
+          <rect x="135.47" y="104.09" width="3.56" height="7.23" id="img-da716a7b-238" fill="#82CC4D"/>
+          <rect x="131.96" y="103.87" width="3.56" height="7.45" id="img-da716a7b-239" fill="#FF734A"/>
+          <rect x="128.45" y="103.8" width="3.56" height="7.52" id="img-da716a7b-240" fill="#C483E9"/>
+          <rect x="124.95" y="103.79" width="3.56" height="7.53" id="img-da716a7b-241" fill="#FF5F82"/>
+          <rect x="121.44" y="103.65" width="3.56" height="7.67" id="img-da716a7b-242" fill="#FFA0C8"/>
+          <rect x="117.93" y="103.61" width="3.56" height="7.72" id="img-da716a7b-243" fill="#BCCF6F"/>
+          <rect x="114.42" y="103.53" width="3.56" height="7.8" id="img-da716a7b-244" fill="#00D485"/>
+          <rect x="110.91" y="103.2" width="3.56" height="8.12" id="img-da716a7b-245" fill="#A08CFF"/>
+          <rect x="107.4" y="103.04" width="3.56" height="8.28" id="img-da716a7b-246" fill="#00BBAA"/>
+          <rect x="103.89" y="102.91" width="3.56" height="8.41" id="img-da716a7b-247" fill="#82CAFF"/>
+          <rect x="100.38" y="102.86" width="3.56" height="8.46" id="img-da716a7b-248" fill="#FFAA89"/>
+          <rect x="96.88" y="102.81" width="3.56" height="8.51" id="img-da716a7b-249" fill="#FFA9F6"/>
+          <rect x="93.37" y="102.79" width="3.56" height="8.53" id="img-da716a7b-250" fill="#00E5B2"/>
+          <rect x="89.86" y="102.69" width="3.56" height="8.63" id="img-da716a7b-251" fill="#9E9E9E"/>
+          <rect x="86.35" y="102.63" width="3.56" height="8.7" id="img-da716a7b-252" fill="#32B44E"/>
+          <rect x="82.84" y="102.55" width="3.56" height="8.77" id="img-da716a7b-253" fill="#FF93A4"/>
+          <rect x="79.33" y="102.32" width="3.56" height="9" id="img-da716a7b-254" fill="#C39800"/>
+          <rect x="75.82" y="101.05" width="3.56" height="10.28" id="img-da716a7b-255" fill="#00E4FF"/>
+          <rect x="72.31" y="100.88" width="3.56" height="10.45" id="img-da716a7b-256" fill="#6299FF"/>
+          <rect x="68.81" y="100.74" width="3.56" height="10.58" id="img-da716a7b-257" fill="#00B4BC"/>
+          <rect x="65.3" y="100.03" width="3.56" height="11.29" id="img-da716a7b-258" fill="#FF9A4B"/>
+          <rect x="61.79" y="97.04" width="3.56" height="14.28" id="img-da716a7b-259" fill="#93A649"/>
+          <rect x="58.28" y="96.42" width="3.56" height="14.9" id="img-da716a7b-260" fill="#E870DD"/>
+          <rect x="54.77" y="96.31" width="3.56" height="15.01" id="img-da716a7b-261" fill="#00E6D3"/>
+          <rect x="51.26" y="93.69" width="3.56" height="17.63" id="img-da716a7b-262" fill="#63DF75"/>
+          <rect x="47.75" y="92.75" width="3.56" height="18.57" id="img-da716a7b-263" fill="#C6C6C6"/>
+          <rect x="44.24" y="92.56" width="3.56" height="18.77" id="img-da716a7b-264" fill="#FF6765"/>
+          <rect x="40.74" y="88.58" width="3.56" height="22.74" id="img-da716a7b-265" fill="#BEA9FF"/>
+          <rect x="37.23" y="85.35" width="3.56" height="25.97" id="img-da716a7b-266" fill="#00B78D"/>
+          <rect x="33.72" y="79.45" width="3.56" height="31.87" id="img-da716a7b-267" fill="#FF6DAE"/>
+          <rect x="30.21" y="39.11" width="3.56" height="72.22" id="img-da716a7b-268" fill="#D4CA3A"/>
+          <rect x="26.7" y="26.26" width="3.56" height="85.06" id="img-da716a7b-269" fill="#00BFFF"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-da716a7b-270">
+    <text x="25.72" y="111.32" text-anchor="end" dy="0.35em" id="img-da716a7b-271">0</text>
+    <text x="25.72" y="85.24" text-anchor="end" dy="0.35em" id="img-da716a7b-272">2.0×10⁴</text>
+    <text x="25.72" y="59.16" text-anchor="end" dy="0.35em" id="img-da716a7b-273">4.0×10⁴</text>
+    <text x="25.72" y="33.08" text-anchor="end" dy="0.35em" id="img-da716a7b-274">6.0×10⁴</text>
+    <text x="25.72" y="7" text-anchor="end" dy="0.35em" id="img-da716a7b-275">8.0×10⁴</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-da716a7b-276">
+    <text x="8.81" y="57.16" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 59.16)" id="img-da716a7b-277">count</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-da716a7b-135">
+  <path d="M26.73,5 L 240.76 5 240.76 113.32 26.73 113.32" />
+</clipPath>
+</defs>
+</svg>
