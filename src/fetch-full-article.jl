@@ -7,7 +7,13 @@ using Languages
 
 # initialize JVM
 try
-  Taro.init() # init once
+  # fix compatibility issue
+  if is_apple()
+      # dont initialize coz apple initializes jvm by default
+  else
+      Taro.init() # init once
+  end
+
 catch
   # something is not right
 end
