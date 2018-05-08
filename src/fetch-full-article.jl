@@ -11,6 +11,7 @@ try
   if is_apple()
       # dont initialize coz apple initializes jvm by default
   else
+      println("initializing JVM and Taro...")
       Taro.init() # init once
   end
 

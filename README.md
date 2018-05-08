@@ -15,7 +15,7 @@ julia src/init.jl
 ```
 ### 2. Run Notebook
 ```
-julia start_notebook.jl
+julia start_app.jl
 ```
 ### 3. Open Notebook: navigate to either
 * Breast Cancer Diagnosis  Text Mining and NLP.ipynp
