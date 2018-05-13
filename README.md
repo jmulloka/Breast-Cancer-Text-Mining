@@ -1,8 +1,9 @@
 # Breast-Cancer-Text-Mining
 ## Introduction
-Breast cancer is the most common type of cancer diagnosed among women and is the second leading cause of cancer death.
-Approximately 252,710 new cases of invasive breast cancer and 63,410 cases of in situ breast carcinoma were expected to be diagnosed among US women in 2017. Text mining is used to discover these knowledge patterns or hypotheses in helping to solve biomedical questions. The two major steps are: to identify biomedical entities and concepts of interests from free text using NLP techniques; and then further analyses are performed to see whether these entities have any relationships
+Breast cancer is the most common type of cancer diagnosed among women and is the second leading cause of cancer death.3 However, breast cancer mortality rates have decreased by 39% through 2015 and this is a result of improvement in treatment and detection screening by mammography.3 Cancer is a result of damage (mutation) to a cell’s DNA, so that the cell loses normal functionality and instead gains the ability to indefinitely multiply until normal tissue functions are impaired.4 The aims of this study include: 1) the progress and overlap made in research related to diagnosis and treatment of this disease 2) to what extent can computational methods convert text data into useful clinical information 3) which knowledge resources can manage text mining of cancer related information 4) how Natural Language Processing (NLP) can be used to structure information from free text reports.5 With the amount of articles published it is not uncommon for researchers to encounter new insights they were unaware of. Text mining is used to discover these knowledge patterns or hypotheses in helping to solve biomedical questions.2 
 
+## Methods
+In this study, we utilized Julia, PubMed Central (PMC), and text mining to conduct the necessary research. First, E-Utilities in Julia pulled articles from PMC based on the eligibility criteria. This included articles with the mesh descriptor “breast neoplasms” and either “therapy”, “drug therapy”, or “diagnosis”. We eliminated articles older than ten years, prior to 2008. Our sample size was 2000 articles. The selected data was output into a dataframe based on the MEDLINE format. Next, we fetched the full text article. The Taro package was then applied to transform the pdf of the full articles into raw text for data to be extracted. We cleaned the data with the TextAnalysis package that allowed for the removal of cases, punctuation, stop words, prepositions, our own custom remove words, etc. Finally, we used Gadfly, Plotly, and Vega to assist in efficiently plotting the data with distinguished visualizations.   
 
 
 ## Using Jupyter Notebook
@@ -125,3 +126,16 @@ Here is how to generate trend analysis
  Gadfly.plot(trend_df, x="year", y="count", color="term", Geom.point, Geom.line)
 
 ```
+## Contributors
+* Allan Kimaina
+* Julia Mullokandova
+* Wei Wang
+
+## TODO
+* Unit test
+
+## Sample
+
+* [Diagnosis](https://github.com/jmulloka/Breast-Cancer-Text-Mining/blob/master/output/Breast%20Cancer%20Diagnosis%20Text%20Mining%20and%20NLP.pdf);
+
+* [Treatment](https://github.com/jmulloka/Breast-Cancer-Text-Mining/blob/master/output/Breast%20Cancer%20Treatment%20Text%20Mining%20and%20NLP.pdf);
