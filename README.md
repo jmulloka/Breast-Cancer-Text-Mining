@@ -134,7 +134,7 @@ Here is how to generate trend analysis
 ## TODO
 * Unit test
 
-## Sample
+## Sample Analysis
 
 * [Diagnosis](https://github.com/jmulloka/Breast-Cancer-Text-Mining/blob/master/output/Breast%20Cancer%20Diagnosis%20Text%20Mining%20and%20NLP.pdf);
 
