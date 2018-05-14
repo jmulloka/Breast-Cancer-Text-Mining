@@ -10,6 +10,8 @@ try
   # fix compatibility issue
   if is_apple()
       # dont initialize coz apple initializes jvm by default
+      # JVM.init()
+      Taro.init() # init once
   else
       println("initializing JVM and Taro...")
       Taro.init() # init once
@@ -56,7 +58,7 @@ function fetchFullArticleFromPmc(dataFrame,pubYear=2018)
       row[:fullText] =  TextAnalysis.text(sd)
     catch err
       # catch errors
-      warn(err)
+      #warn(err)
     end
       #next!(tracker)
   end
